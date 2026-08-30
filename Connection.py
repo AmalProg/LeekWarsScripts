@@ -35,7 +35,9 @@ def connectToLW(accountName="Amal") :
     config = dotenv_values(".env")
 
     login = users[accountName]["login"]
-    password = config[users[accountName]["password"]]
+    password = config.get(users[accountName]["password"], None)
+    if password is None:
+        password = getpass.getpass()
     return tryToConnectToLW(login, password)
 
 
@@ -52,6 +54,14 @@ def tryToConnectToLW(login, password) :
     else :
         print('La connection à Leek Wars a échouée')
         return False
+ 
+def doFunctionWithAllAccounts(func) :
+    for accountName in users.keys() :
+        if connectToLW(accountName) :
+            print(' -- Connection to Leek Wars with ' + accountName + ' successful ! --')
+            func()
+        else :
+            print(' -- Connection to Leek Wars with ' + accountName + ' failed ! --')
 
 if __name__ == '__main__' :
     connectToLW()

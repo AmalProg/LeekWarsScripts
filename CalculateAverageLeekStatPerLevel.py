@@ -5,6 +5,7 @@ import time
 import Connection
 import Utils
 
+global RANKING_TYPES
 RANKING_TYPES = {1: 'level-50', 2: 'level-100', 3: 'level-150', 4: 'level-200', 5: 'level-250', 6: 'level-299', 7: 'leek'}
 
 FAST_DELAY = 0.15
@@ -107,5 +108,5 @@ def saveLeekStats():
 
     Utils.writeInFile(folderName='LeeksData', fileName=leekId + '.json', data=resp.json())
 
-if Connection.connectToLW() :
+if __name__ == "__main__" and Connection.connectToLW() :
     start()
