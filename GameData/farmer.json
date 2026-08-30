@@ -1,0 +1,6155 @@
+{
+	"farmer": {
+		"id": 19070,
+		"login": "Amal",
+		"team": {
+			"id": 6485,
+			"name": "Dreamers",
+			"level": 100,
+			"emblem_changed": 1498841714,
+			"chat": 30525,
+			"member_level": 2,
+			"member_count": 4,
+			"sent_invitations": []
+		},
+		"name": "Amal",
+		"talent": 6285,
+		"max_talent": 6788,
+		"talent_history": [6551, 6529, 6559, 6566, 6400, 6336, 6278],
+		"leeks": {
+			"21631": {
+				"id": 21631,
+				"name": "Saphyre",
+				"capital": 0,
+				"level": 301,
+				"talent": 2114,
+				"skin": 7,
+				"hat": {
+					"id": 1455347,
+					"template": 285,
+					"hat_template": 39,
+					"quantity": 1
+				},
+				"ai_path": "IA v5/Brain42",
+				"weapon": 175,
+				"title": [282, 0, 1, 0],
+				"metal": true,
+				"face": 0,
+				"life": 1860,
+				"strength": 400,
+				"wisdom": 210,
+				"agility": 200,
+				"resistance": 300,
+				"science": 0,
+				"magic": 0,
+				"frequency": 100,
+				"cores": 7,
+				"ram": 6,
+				"tp": 20,
+				"mp": 5,
+				"total_life": 2480,
+				"total_strength": 450,
+				"total_wisdom": 300,
+				"total_agility": 250,
+				"total_resistance": 350,
+				"total_science": 140,
+				"total_magic": 90,
+				"total_frequency": 210,
+				"total_cores": 20,
+				"total_ram": 23,
+				"total_tp": 28,
+				"total_mp": 5,
+				"in_garden": true,
+				"ranking": 542
+			},
+			"23245": {
+				"id": 23245,
+				"name": "Rexy",
+				"capital": 0,
+				"level": 301,
+				"talent": 2236,
+				"skin": 12,
+				"hat": {
+					"id": 594935,
+					"template": 87,
+					"hat_template": 7,
+					"quantity": 1
+				},
+				"ai_path": "IA v5/Brain42",
+				"weapon": 187,
+				"title": [94, 0, 1, 0],
+				"metal": true,
+				"face": 2,
+				"life": 2105,
+				"strength": 500,
+				"wisdom": 150,
+				"agility": 200,
+				"resistance": 300,
+				"science": 0,
+				"magic": 0,
+				"frequency": 100,
+				"cores": 6,
+				"ram": 7,
+				"tp": 18,
+				"mp": 4,
+				"total_life": 2355,
+				"total_strength": 660,
+				"total_wisdom": 330,
+				"total_agility": 280,
+				"total_resistance": 350,
+				"total_science": 160,
+				"total_magic": 50,
+				"total_frequency": 210,
+				"total_cores": 19,
+				"total_ram": 20,
+				"total_tp": 25,
+				"total_mp": 5,
+				"in_garden": true,
+				"ranking": 404
+			},
+			"34341": {
+				"id": 34341,
+				"name": "Varju",
+				"capital": 0,
+				"level": 301,
+				"talent": 1884,
+				"skin": 17,
+				"hat": {
+					"id": 1169161,
+					"template": 227,
+					"hat_template": 30,
+					"quantity": 1
+				},
+				"ai_path": "IA v5/Brain42",
+				"weapon": 153,
+				"title": [43, 0, 1, 0],
+				"metal": true,
+				"face": 2,
+				"life": 2435,
+				"strength": 400,
+				"wisdom": 200,
+				"agility": 0,
+				"resistance": 250,
+				"science": 0,
+				"magic": 0,
+				"frequency": 100,
+				"cores": 6,
+				"ram": 9,
+				"tp": 20,
+				"mp": 4,
+				"total_life": 2655,
+				"total_strength": 600,
+				"total_wisdom": 300,
+				"total_agility": 140,
+				"total_resistance": 300,
+				"total_science": 130,
+				"total_magic": 50,
+				"total_frequency": 210,
+				"total_cores": 19,
+				"total_ram": 20,
+				"total_tp": 26,
+				"total_mp": 5,
+				"in_garden": true,
+				"ranking": 751
+			},
+			"38241": {
+				"id": 38241,
+				"name": "Astera",
+				"capital": 0,
+				"level": 301,
+				"talent": 2378,
+				"skin": 5,
+				"hat": {
+					"id": 1133383,
+					"template": 223,
+					"hat_template": 28,
+					"quantity": 1
+				},
+				"ai_path": "IA v5/Brain42",
+				"weapon": 108,
+				"title": [304, 0, 1, 0],
+				"metal": false,
+				"face": 2,
+				"life": 2135,
+				"strength": 0,
+				"wisdom": 300,
+				"agility": 300,
+				"resistance": 0,
+				"science": 500,
+				"magic": 0,
+				"frequency": 100,
+				"cores": 1,
+				"ram": 6,
+				"tp": 20,
+				"mp": 5,
+				"total_life": 2755,
+				"total_strength": 0,
+				"total_wisdom": 340,
+				"total_agility": 300,
+				"total_resistance": 0,
+				"total_science": 720,
+				"total_magic": 40,
+				"total_frequency": 240,
+				"total_cores": 20,
+				"total_ram": 23,
+				"total_tp": 27,
+				"total_mp": 5,
+				"in_garden": true,
+				"ranking": 326
+			}
+		},
+		"avatar_changed": 1699290146,
+		"talent_more": 3433,
+		"victories": 49005,
+		"draws": 10538,
+		"defeats": 50214,
+		"ratio": "0.98",
+		"connected": true,
+		"last_connection": 1788046581,
+		"register_date": 1413141748,
+		"fight_history": [
+			{
+				"id": 53481931,
+				"leeks1": [44873, 45201, 45922, 46409],
+				"leeks2": [21631, 23245, 34341, 38241],
+				"winner": 0,
+				"status": 2,
+				"date": 1788045654,
+				"context": 2,
+				"type": 1,
+				"farmer1": 41108,
+				"farmer2": 19070,
+				"team1": -1,
+				"team2": -1,
+				"composition1": null,
+				"composition2": null,
+				"chests": 0,
+				"comments": 0,
+				"trophies": 0,
+				"levelups": 0,
+				"rareloot": 0,
+				"duration": 65,
+				"result": "draw",
+				"farmer1_name": "Jace",
+				"farmer2_name": "Amal"
+			},
+			{
+				"id": 53481479,
+				"leeks1": [24550, 36574, 40874, 80543, 93072],
+				"leeks2": [20239, 21631, 45922, 53758, 80968],
+				"winner": 2,
+				"status": 2,
+				"date": 1788043392,
+				"context": 2,
+				"type": 5,
+				"farmer1": -1,
+				"farmer2": -1,
+				"team1": -1,
+				"team2": -1,
+				"composition1": -1,
+				"composition2": -1,
+				"chests": 0,
+				"comments": 0,
+				"trophies": 0,
+				"levelups": 0,
+				"rareloot": 0,
+				"duration": 30,
+				"result": "win"
+			},
+			{
+				"id": 53480968,
+				"leeks1": [
+					90, 8549, 24550, 20239, 38241, 36574, 45922, 53758, 78421,
+					80968, 93072
+				],
+				"leeks2": [1, 2, 2, 2, 2],
+				"winner": 1,
+				"status": 2,
+				"date": 1788040777,
+				"context": 2,
+				"type": 6,
+				"farmer1": -1,
+				"farmer2": -1,
+				"team1": -1,
+				"team2": -1,
+				"composition1": -1,
+				"composition2": -1,
+				"chests": 5,
+				"comments": 0,
+				"trophies": 0,
+				"levelups": 0,
+				"rareloot": 6,
+				"duration": 12,
+				"result": "defeat"
+			},
+			{
+				"id": 53480938,
+				"leeks1": [{ "id": 100507, "name": "Taill\u00e9PourGinette" }],
+				"leeks2": [{ "id": 38241, "name": "Astera" }],
+				"winner": 2,
+				"status": 2,
+				"date": 1788040264,
+				"context": 2,
+				"type": 0,
+				"farmer1": -1,
+				"farmer2": -1,
+				"team1": -1,
+				"team2": -1,
+				"composition1": null,
+				"composition2": null,
+				"chests": 0,
+				"comments": 0,
+				"trophies": 0,
+				"levelups": 0,
+				"rareloot": 0,
+				"duration": 45,
+				"result": "win"
+			},
+			{
+				"id": 53480883,
+				"leeks1": [
+					8549, 24550, 20239, 38241, 40874, 47183, 80543, 80968,
+					100507
+				],
+				"leeks2": [93072],
+				"winner": 0,
+				"status": 2,
+				"date": 1788040009,
+				"context": 2,
+				"type": 7,
+				"farmer1": -1,
+				"farmer2": -1,
+				"team1": -1,
+				"team2": -1,
+				"composition1": -1,
+				"composition2": -1,
+				"chests": 0,
+				"comments": 0,
+				"trophies": 1,
+				"levelups": 0,
+				"rareloot": 0,
+				"duration": 65,
+				"result": "draw"
+			},
+			{
+				"id": 53480697,
+				"leeks1": [
+					90, 24550, 20239, 38241, 36574, 42860, 47183, 53758, 79762,
+					89520
+				],
+				"leeks2": [],
+				"winner": 1,
+				"status": 2,
+				"date": 1788038066,
+				"context": 2,
+				"type": 3,
+				"farmer1": -1,
+				"farmer2": -1,
+				"team1": -1,
+				"team2": -1,
+				"composition1": -1,
+				"composition2": -1,
+				"chests": 0,
+				"comments": 0,
+				"trophies": 0,
+				"levelups": 0,
+				"rareloot": 1,
+				"duration": 16,
+				"result": "defeat"
+			}
+		],
+		"tournaments": [
+			{ "id": 116736, "date": 1788018301, "rounds": { "19070": [-1] } },
+			{
+				"id": 116699,
+				"date": 1787931902,
+				"rounds": { "19070": [1, 1, -1] }
+			},
+			{
+				"id": 116661,
+				"date": 1787845501,
+				"rounds": { "19070": [1, -1] }
+			},
+			{
+				"id": 116622,
+				"date": 1787759101,
+				"rounds": { "19070": [1, 1, 0] }
+			},
+			{
+				"id": 116587,
+				"date": 1787672702,
+				"rounds": { "19070": [1, 1, 0] }
+			},
+			{ "id": 116554, "date": 1787586302, "rounds": { "19070": [-1] } }
+		],
+		"admin": false,
+		"moderator": false,
+		"country": "jp",
+		"godfather": { "id": 18969, "name": "Helias" },
+		"godsons": [
+			{ "id": 50580, "name": "Eautaku" },
+			{ "id": 19630, "name": "Fara" },
+			{ "id": 53796, "name": "Unlucky" },
+			{ "id": 53795, "name": "HolyGrail" },
+			{ "id": 78892, "name": "Demi" }
+		],
+		"color": "contributor",
+		"banned": false,
+		"won_solo_tournaments": 73,
+		"won_farmer_tournaments": 192,
+		"won_team_tournaments": 167,
+		"won_battle_royale": 412,
+		"total_level": 1204,
+		"leek_count": 4,
+		"in_garden": true,
+		"fights": 11427,
+		"bought_fights": 11328,
+		"habs_fights": true,
+		"team_fights": 20,
+		"github": "AmalProg",
+		"website": null,
+		"forum_messages": 108,
+		"didactitiel_seen": true,
+		"didactitiel_step": 6,
+		"didactitiel_completed_at": null,
+		"verify_modal_dismissed_at": null,
+		"verify_code_at": null,
+		"contributor": true,
+		"referent": false,
+		"trophies": 312,
+		"points": 13088,
+		"language": "fr",
+		"title": [312, 25, 1, 108],
+		"show_ai_lines": true,
+		"ranking": 20,
+		"verified": true,
+		"tutorial_progress": 0,
+		"ai_language": "leekscript",
+		"group": null,
+		"supervised_group": null,
+		"bank_enabled": true,
+		"public_chat_enabled": true,
+		"buy_fights_enabled": true,
+		"tournaments_enabled": true,
+		"br_enabled": true,
+		"equipment_enabled": true,
+		"can_create_leek": true,
+		"godsons_level": 3615,
+		"godsons_level_current": 3615,
+		"likes": 3,
+		"prestige": 66893,
+		"pass": true,
+		"two_factor_enabled": false,
+		"home_layout": null,
+		"habs": 3885650948,
+		"crystals": 2500,
+		"first_purchase": false,
+		"invite_dialog_seen_at": 1781436130,
+		"season": {
+			"key": "heatwave",
+			"instance": "heatwave-2026",
+			"start": 1785535200,
+			"end": 1788213599,
+			"bonus": 50,
+			"active": true,
+			"dialog": null
+		},
+		"aposteriori_rewards": {
+			"claimable": true,
+			"is_godson": true,
+			"godson_units": 5,
+			"crystals": 60,
+			"habs": 70000,
+			"fights": 20
+		},
+		"weapons": [
+			{
+				"id": 615299,
+				"template": 37,
+				"quantity": 39,
+				"time": 1735231992
+			},
+			{
+				"id": 527659,
+				"template": 38,
+				"quantity": 49,
+				"time": 1768046675
+			},
+			{
+				"id": 1034588,
+				"template": 182,
+				"quantity": 61,
+				"time": 1735231929
+			},
+			{
+				"id": 309701,
+				"template": 41,
+				"quantity": 40,
+				"time": 1735231929
+			},
+			{
+				"id": 165161,
+				"template": 45,
+				"quantity": 61,
+				"time": 1735231929
+			},
+			{
+				"id": 527658,
+				"template": 108,
+				"quantity": 56,
+				"time": 1735231926
+			},
+			{
+				"id": 165160,
+				"template": 42,
+				"quantity": 58,
+				"time": 1735231936
+			},
+			{
+				"id": 147925,
+				"template": 39,
+				"quantity": 58,
+				"time": 1735231929
+			},
+			{
+				"id": 1340328,
+				"template": 277,
+				"quantity": 15,
+				"time": 1735231855
+			},
+			{
+				"id": 527014,
+				"template": 40,
+				"quantity": 40,
+				"time": 1735231936
+			},
+			{
+				"id": 1133381,
+				"template": 226,
+				"quantity": 1,
+				"time": 1718392065
+			},
+			{
+				"id": 527660,
+				"template": 46,
+				"quantity": 13,
+				"time": 1735231844
+			},
+			{
+				"id": 1172800,
+				"template": 60,
+				"quantity": 15,
+				"time": 1735231848
+			},
+			{
+				"id": 471086,
+				"template": 109,
+				"quantity": 15,
+				"time": 1735231848
+			},
+			{
+				"id": 306059,
+				"template": 43,
+				"quantity": 17,
+				"time": 1735231972
+			},
+			{
+				"id": 848748,
+				"template": 116,
+				"quantity": 1,
+				"time": 1701443952
+			},
+			{
+				"id": 2567191,
+				"template": 429,
+				"quantity": 2,
+				"time": 1787560662
+			},
+			{
+				"id": 848747,
+				"template": 115,
+				"quantity": 10,
+				"time": 1767044902
+			},
+			{
+				"id": 1034587,
+				"template": 184,
+				"quantity": 15,
+				"time": 1735231835
+			},
+			{
+				"id": 1177619,
+				"template": 153,
+				"quantity": 9,
+				"time": 1735231855
+			},
+			{ "id": 525250, "template": 44, "quantity": 9, "time": 1735231862 },
+			{
+				"id": 1034585,
+				"template": 180,
+				"quantity": 4,
+				"time": 1768046779
+			},
+			{
+				"id": 1697564,
+				"template": 107,
+				"quantity": 5,
+				"time": 1703463689
+			},
+			{
+				"id": 1057089,
+				"template": 187,
+				"quantity": 1,
+				"time": 1701639671
+			},
+			{
+				"id": 1689692,
+				"template": 151,
+				"quantity": 1,
+				"time": 1723587234
+			},
+			{
+				"id": 2411144,
+				"template": 428,
+				"quantity": 3,
+				"time": 1767044931
+			},
+			{
+				"id": 1757172,
+				"template": 278,
+				"quantity": 2,
+				"time": 1723586948
+			},
+			{
+				"id": 1686332,
+				"template": 48,
+				"quantity": 4,
+				"time": 1701891232
+			},
+			{ "id": 848745, "template": 118, "quantity": 1, "time": 848745 },
+			{ "id": 1177620, "template": 47, "quantity": 4, "time": 1703463632 }
+		],
+		"chips": [
+			{
+				"id": 614719,
+				"template": 1,
+				"quantity": 136,
+				"time": 1735231992
+			},
+			{ "id": 615300, "template": 3, "quantity": 46, "time": 1735231992 },
+			{
+				"id": 614717,
+				"template": 19,
+				"quantity": 44,
+				"time": 1735231992
+			},
+			{ "id": 301090, "template": 8, "quantity": 50, "time": 1735231992 },
+			{ "id": 580595, "template": 2, "quantity": 42, "time": 1735231992 },
+			{
+				"id": 299845,
+				"template": 21,
+				"quantity": 52,
+				"time": 1735231992
+			},
+			{ "id": 303018, "template": 7, "quantity": 56, "time": 1735231927 },
+			{
+				"id": 1051548,
+				"template": 15,
+				"quantity": 38,
+				"time": 1735231992
+			},
+			{ "id": 376116, "template": 9, "quantity": 57, "time": 1735231920 },
+			{
+				"id": 165201,
+				"template": 23,
+				"quantity": 63,
+				"time": 1735231952
+			},
+			{
+				"id": 580482,
+				"template": 18,
+				"quantity": 54,
+				"time": 1735231992
+			},
+			{ "id": 580493, "template": 4, "quantity": 45, "time": 1735231992 },
+			{
+				"id": 614722,
+				"template": 14,
+				"quantity": 50,
+				"time": 1735231992
+			},
+			{ "id": 614718, "template": 6, "quantity": 46, "time": 1735231992 },
+			{ "id": 311778, "template": 5, "quantity": 50, "time": 1735231929 },
+			{
+				"id": 972372,
+				"template": 155,
+				"quantity": 47,
+				"time": 1735231929
+			},
+			{
+				"id": 306314,
+				"template": 20,
+				"quantity": 64,
+				"time": 1735231929
+			},
+			{
+				"id": 611769,
+				"template": 96,
+				"quantity": 39,
+				"time": 1735231929
+			},
+			{
+				"id": 375726,
+				"template": 97,
+				"quantity": 10,
+				"time": 1703463348
+			},
+			{
+				"id": 284946,
+				"template": 73,
+				"quantity": 43,
+				"time": 1735231929
+			},
+			{
+				"id": 290678,
+				"template": 30,
+				"quantity": 17,
+				"time": 1735231977
+			},
+			{
+				"id": 861126,
+				"template": 141,
+				"quantity": 11,
+				"time": 1735231855
+			},
+			{
+				"id": 613884,
+				"template": 10,
+				"quantity": 60,
+				"time": 1735231929
+			},
+			{
+				"id": 1756874,
+				"template": 34,
+				"quantity": 4,
+				"time": 1718392137
+			},
+			{
+				"id": 375725,
+				"template": 94,
+				"quantity": 52,
+				"time": 1735231929
+			},
+			{
+				"id": 1031991,
+				"template": 67,
+				"quantity": 10,
+				"time": 1735231977
+			},
+			{
+				"id": 861125,
+				"template": 144,
+				"quantity": 12,
+				"time": 1735231857
+			},
+			{
+				"id": 1757067,
+				"template": 22,
+				"quantity": 6,
+				"time": 1735231862
+			},
+			{
+				"id": 315351,
+				"template": 32,
+				"quantity": 12,
+				"time": 1735231851
+			},
+			{
+				"id": 527197,
+				"template": 11,
+				"quantity": 11,
+				"time": 1735231980
+			},
+			{
+				"id": 972360,
+				"template": 159,
+				"quantity": 11,
+				"time": 1735231975
+			},
+			{
+				"id": 1686183,
+				"template": 276,
+				"quantity": 11,
+				"time": 1735231859
+			},
+			{
+				"id": 613259,
+				"template": 92,
+				"quantity": 15,
+				"time": 1735231972
+			},
+			{
+				"id": 573175,
+				"template": 31,
+				"quantity": 10,
+				"time": 1735231855
+			},
+			{
+				"id": 614867,
+				"template": 76,
+				"quantity": 15,
+				"time": 1735231848
+			},
+			{
+				"id": 611683,
+				"template": 102,
+				"quantity": 8,
+				"time": 1735231859
+			},
+			{
+				"id": 614720,
+				"template": 89,
+				"quantity": 11,
+				"time": 1735231857
+			},
+			{
+				"id": 1686321,
+				"template": 110,
+				"quantity": 9,
+				"time": 1735231857
+			},
+			{ "id": 170679, "template": 24, "quantity": 7, "time": 1735231844 },
+			{
+				"id": 611685,
+				"template": 88,
+				"quantity": 13,
+				"time": 1735231851
+			},
+			{
+				"id": 972382,
+				"template": 162,
+				"quantity": 13,
+				"time": 1735231972
+			},
+			{ "id": 777581, "template": 35, "quantity": 9, "time": 1735231844 },
+			{
+				"id": 410680,
+				"template": 98,
+				"quantity": 15,
+				"time": 1735231859
+			},
+			{
+				"id": 615189,
+				"template": 28,
+				"quantity": 11,
+				"time": 1735231848
+			},
+			{
+				"id": 611059,
+				"template": 77,
+				"quantity": 14,
+				"time": 1735231859
+			},
+			{
+				"id": 611784,
+				"template": 100,
+				"quantity": 11,
+				"time": 1735231977
+			},
+			{
+				"id": 1757022,
+				"template": 25,
+				"quantity": 7,
+				"time": 1735231851
+			},
+			{
+				"id": 848750,
+				"template": 120,
+				"quantity": 14,
+				"time": 1735231857
+			},
+			{
+				"id": 972383,
+				"template": 163,
+				"quantity": 9,
+				"time": 1735231855
+			},
+			{
+				"id": 1757023,
+				"template": 81,
+				"quantity": 8,
+				"time": 1735231848
+			},
+			{
+				"id": 470672,
+				"template": 91,
+				"quantity": 14,
+				"time": 1735231848
+			},
+			{
+				"id": 614716,
+				"template": 95,
+				"quantity": 10,
+				"time": 1703463528
+			},
+			{
+				"id": 1475682,
+				"template": 114,
+				"quantity": 11,
+				"time": 1735231859
+			},
+			{
+				"id": 972384,
+				"template": 174,
+				"quantity": 14,
+				"time": 1735231844
+			},
+			{
+				"id": 1757035,
+				"template": 68,
+				"quantity": 4,
+				"time": 1718392146
+			},
+			{
+				"id": 614325,
+				"template": 16,
+				"quantity": 12,
+				"time": 1735231859
+			},
+			{
+				"id": 972376,
+				"template": 169,
+				"quantity": 10,
+				"time": 1735231857
+			},
+			{
+				"id": 614461,
+				"template": 36,
+				"quantity": 10,
+				"time": 1735231975
+			},
+			{
+				"id": 972385,
+				"template": 157,
+				"quantity": 18,
+				"time": 1735231844
+			},
+			{
+				"id": 972373,
+				"template": 156,
+				"quantity": 8,
+				"time": 1735231851
+			},
+			{
+				"id": 666384,
+				"template": 80,
+				"quantity": 10,
+				"time": 1735231859
+			},
+			{
+				"id": 1757031,
+				"template": 85,
+				"quantity": 14,
+				"time": 1735231851
+			},
+			{ "id": 614462, "template": 75, "quantity": 6, "time": 1703463737 },
+			{
+				"id": 614045,
+				"template": 13,
+				"quantity": 12,
+				"time": 1735231859
+			},
+			{
+				"id": 848740,
+				"template": 121,
+				"quantity": 11,
+				"time": 1735231857
+			},
+			{ "id": 466457, "template": 33, "quantity": 7, "time": 1718392090 },
+			{
+				"id": 375723,
+				"template": 103,
+				"quantity": 13,
+				"time": 1735231862
+			},
+			{
+				"id": 1172787,
+				"template": 93,
+				"quantity": 9,
+				"time": 1735231975
+			},
+			{ "id": 610271, "template": 74, "quantity": 6, "time": 1703463689 },
+			{
+				"id": 848751,
+				"template": 122,
+				"quantity": 10,
+				"time": 1735231859
+			},
+			{
+				"id": 1757034,
+				"template": 29,
+				"quantity": 6,
+				"time": 1735231835
+			},
+			{
+				"id": 295072,
+				"template": 27,
+				"quantity": 13,
+				"time": 1735231980
+			},
+			{
+				"id": 1042293,
+				"template": 168,
+				"quantity": 13,
+				"time": 1735231851
+			},
+			{
+				"id": 1757021,
+				"template": 59,
+				"quantity": 5,
+				"time": 1735231848
+			},
+			{ "id": 614326, "template": 12, "quantity": 3, "time": 1735231777 },
+			{
+				"id": 613246,
+				"template": 90,
+				"quantity": 12,
+				"time": 1735231855
+			},
+			{ "id": 614324, "template": 26, "quantity": 4, "time": 1735231798 },
+			{
+				"id": 615190,
+				"template": 105,
+				"quantity": 8,
+				"time": 1735231855
+			},
+			{
+				"id": 1686311,
+				"template": 99,
+				"quantity": 7,
+				"time": 1735231757
+			},
+			{
+				"id": 861124,
+				"template": 142,
+				"quantity": 4,
+				"time": 1718392085
+			},
+			{
+				"id": 1172782,
+				"template": 152,
+				"quantity": 7,
+				"time": 1735231790
+			},
+			{
+				"id": 972354,
+				"template": 160,
+				"quantity": 5,
+				"time": 1735231764
+			},
+			{ "id": 614345, "template": 17, "quantity": 4, "time": 1718392085 },
+			{
+				"id": 1757175,
+				"template": 154,
+				"quantity": 1,
+				"time": 1718392104
+			},
+			{ "id": 777571, "template": 79, "quantity": 5, "time": 777571 },
+			{
+				"id": 466453,
+				"template": 104,
+				"quantity": 10,
+				"time": 1735231848
+			},
+			{
+				"id": 572783,
+				"template": 106,
+				"quantity": 8,
+				"time": 1735231855
+			},
+			{
+				"id": 1757082,
+				"template": 173,
+				"quantity": 4,
+				"time": 1718392115
+			},
+			{
+				"id": 611775,
+				"template": 101,
+				"quantity": 11,
+				"time": 1735231972
+			},
+			{
+				"id": 972380,
+				"template": 167,
+				"quantity": 6,
+				"time": 1735231790
+			},
+			{
+				"id": 972365,
+				"template": 161,
+				"quantity": 5,
+				"time": 1708676620
+			},
+			{
+				"id": 1686528,
+				"template": 158,
+				"quantity": 2,
+				"time": 1735231798
+			},
+			{
+				"id": 972378,
+				"template": 170,
+				"quantity": 6,
+				"time": 1735231790
+			},
+			{
+				"id": 972381,
+				"template": 166,
+				"quantity": 8,
+				"time": 1735231764
+			},
+			{
+				"id": 972369,
+				"template": 172,
+				"quantity": 5,
+				"time": 1703463689
+			},
+			{ "id": 610269, "template": 78, "quantity": 6, "time": 1718392085 },
+			{
+				"id": 1686312,
+				"template": 171,
+				"quantity": 5,
+				"time": 1703463689
+			},
+			{ "id": 1034770, "template": 143, "quantity": 4, "time": 1034770 },
+			{ "id": 620755, "template": 84, "quantity": 4, "time": 1701459237 }
+		],
+		"ai_tree": {
+			"files": [
+				{
+					"path": "Empty",
+					"mtime": 1787972765000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 4,
+					"total_chars": 66,
+					"scenario": 84064
+				},
+				{
+					"path": "IA v5/AI",
+					"mtime": 1776531555000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 1637,
+					"total_chars": 63802,
+					"scenario": 19161
+				},
+				{
+					"path": "IA v5/Actions/AbstractAction",
+					"mtime": 1776531566000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 48,
+					"total_chars": 1285,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Actions/Action",
+					"mtime": 1787870840000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 257,
+					"total_chars": 9949,
+					"scenario": 19277
+				},
+				{
+					"path": "IA v5/Actions/ActionsManager",
+					"mtime": 1787575715000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 479,
+					"total_chars": 18407,
+					"scenario": 19277
+				},
+				{
+					"path": "IA v5/Actions/BasicAction",
+					"mtime": 1787870840000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 12507,
+					"total_chars": 484836,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Actions/RessurectAction",
+					"mtime": 1787870840000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 12020,
+					"total_chars": 465715,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Actions/SelfAction",
+					"mtime": 1787870840000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 12109,
+					"total_chars": 468252,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Brain42",
+					"mtime": 1787870840000,
+					"valid": true,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 12032,
+					"total_chars": 466073,
+					"scenario": 84041
+				},
+				{
+					"path": "IA v5/Effects/AbsoluteShieldEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 28,
+					"total_chars": 1757,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/AbsoluteVulnerabilityEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 26,
+					"total_chars": 1590,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/AddStateEffect",
+					"mtime": 1787870840000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 12024,
+					"total_chars": 466221,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/AfterEffectEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 56,
+					"total_chars": 2376,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/AntidoteEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 31,
+					"total_chars": 1427,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/AttractEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 16,
+					"total_chars": 508,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/BoostMaxLifeEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 23,
+					"total_chars": 1263,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/BuffAgilityEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 28,
+					"total_chars": 1643,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/BuffMpEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 28,
+					"total_chars": 1684,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/BuffResistanceEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 28,
+					"total_chars": 1724,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/BuffStrengthEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 28,
+					"total_chars": 1718,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/BuffTpEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 28,
+					"total_chars": 1602,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/BuffWisdomEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 28,
+					"total_chars": 1592,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/DamageEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 101,
+					"total_chars": 4090,
+					"scenario": 19277
+				},
+				{
+					"path": "IA v5/Effects/DamageReturnEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 23,
+					"total_chars": 1470,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/DebuffEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 58,
+					"total_chars": 2905,
+					"scenario": 19277
+				},
+				{
+					"path": "IA v5/Effects/Effect",
+					"mtime": 1776531499000,
+					"valid": true,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 647,
+					"total_chars": 38618,
+					"scenario": 19277
+				},
+				{
+					"path": "IA v5/Effects/HealEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 53,
+					"total_chars": 2584,
+					"scenario": 27022
+				},
+				{
+					"path": "IA v5/Effects/InvertEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 15,
+					"total_chars": 657,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/KillEffect",
+					"mtime": 1787870840000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 12038,
+					"total_chars": 466549,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/LifeDamageEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 68,
+					"total_chars": 2810,
+					"scenario": 27022
+				},
+				{
+					"path": "IA v5/Effects/NovaDamageEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 62,
+					"total_chars": 2399,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/NovaVitalityEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 21,
+					"total_chars": 1122,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/Passives/AllyKillToAgilityEffect",
+					"mtime": 1776531555000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 16,
+					"total_chars": 804,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/Passives/CriticalToHealEffect",
+					"mtime": 1776531554000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 15,
+					"total_chars": 659,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/Passives/DamageToAbsoluteShieldEffect",
+					"mtime": 1776531551000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 16,
+					"total_chars": 929,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/Passives/DamageToStrengthEffect",
+					"mtime": 1776531554000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 18,
+					"total_chars": 930,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/Passives/KillToTpEffect",
+					"mtime": 1776531554000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 14,
+					"total_chars": 779,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/Passives/MovedToMpEffect",
+					"mtime": 1776531554000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 16,
+					"total_chars": 781,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/Passives/NovaDamageToMagicEffect",
+					"mtime": 1776531554000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 17,
+					"total_chars": 924,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/Passives/PassiveEffect",
+					"mtime": 1776531554000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 29,
+					"total_chars": 1045,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/Passives/PoisonToScienceEffect",
+					"mtime": 1776531554000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 18,
+					"total_chars": 928,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/PoisonEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 33,
+					"total_chars": 1673,
+					"scenario": 27022
+				},
+				{
+					"path": "IA v5/Effects/PushEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 16,
+					"total_chars": 499,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/RawAbsoluteShieldEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 26,
+					"total_chars": 1544,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/RawBuffAgilityEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 26,
+					"total_chars": 1420,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/RawBuffMagicEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 26,
+					"total_chars": 1540,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/RawBuffMpEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 26,
+					"total_chars": 1518,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/RawBuffPowerEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 26,
+					"total_chars": 1460,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/RawBuffResistanceEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 26,
+					"total_chars": 1606,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/RawBuffScienceEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 26,
+					"total_chars": 1446,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/RawBuffStrengthEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 26,
+					"total_chars": 1558,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/RawBuffTpEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 26,
+					"total_chars": 1421,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/RawBuffWisdomEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 26,
+					"total_chars": 1441,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/RawHealEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 36,
+					"total_chars": 1506,
+					"scenario": 19277
+				},
+				{
+					"path": "IA v5/Effects/RawRelativeShieldEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 26,
+					"total_chars": 1505,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/RelativeShieldEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 28,
+					"total_chars": 1696,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/RemoveShackleEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 7,
+					"total_chars": 273,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/RessurectEffect",
+					"mtime": 1787870840000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 12032,
+					"total_chars": 466569,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/ShackleAgilityEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 28,
+					"total_chars": 1644,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/ShackleMagicEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 28,
+					"total_chars": 1631,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/ShackleMpEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 28,
+					"total_chars": 1616,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/ShackleStrengthEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 28,
+					"total_chars": 1644,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/ShackleTpEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 28,
+					"total_chars": 1631,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/ShackleWisdomEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 28,
+					"total_chars": 1631,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/StealAbsoluteShieldEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 27,
+					"total_chars": 1663,
+					"scenario": 27022
+				},
+				{
+					"path": "IA v5/Effects/SummonEffect",
+					"mtime": 1776531553000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 7,
+					"total_chars": 242,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/TeleportEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 7,
+					"total_chars": 267,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Effects/VulnerabilityEffect",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 21,
+					"total_chars": 1220,
+					"scenario": 27022
+				},
+				{
+					"path": "IA v5/Entities/Boss",
+					"mtime": 1776531566000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 29,
+					"total_chars": 681,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Entities/Bosses/Fennel/Crystal",
+					"mtime": 1776531567000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 47,
+					"total_chars": 1469,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Entities/Bosses/Fennel/Graal",
+					"mtime": 1776531567000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 26,
+					"total_chars": 640,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Entities/Bosses/Fennel/King",
+					"mtime": 1776531567000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 25,
+					"total_chars": 581,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Entities/Bosses/Fennel/Knight",
+					"mtime": 1776531567000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 25,
+					"total_chars": 677,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Entities/Bosses/Fennel/Scribe",
+					"mtime": 1776531567000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 25,
+					"total_chars": 677,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Entities/Bosses/Fennel/Squire",
+					"mtime": 1776531567000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 25,
+					"total_chars": 677,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Entities/Bulb",
+					"mtime": 1776531479000,
+					"valid": true,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 93,
+					"total_chars": 2831,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Entities/Chest",
+					"mtime": 1776531555000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 41,
+					"total_chars": 1186,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Entities/EntitiesImports",
+					"mtime": 1776531567000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 12,
+					"total_chars": 304,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Entities/Entity",
+					"mtime": 1776531479000,
+					"valid": true,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 531,
+					"total_chars": 16727,
+					"scenario": 19298
+				},
+				{
+					"path": "IA v5/Entities/EntityEffect",
+					"mtime": 1776531479000,
+					"valid": true,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 110,
+					"total_chars": 6212,
+					"scenario": 27022
+				},
+				{
+					"path": "IA v5/Entities/EntityStats",
+					"mtime": 1776531479000,
+					"valid": true,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 568,
+					"total_chars": 18989,
+					"scenario": 27332
+				},
+				{
+					"path": "IA v5/Entities/Leek",
+					"mtime": 1776531479000,
+					"valid": true,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 80,
+					"total_chars": 2573,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Entities/Scoring/CrystalScoresAdjuster",
+					"mtime": 1776531567000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 24,
+					"total_chars": 390,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Entities/Scoring/EntityScores",
+					"mtime": 1776531479000,
+					"valid": true,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 166,
+					"total_chars": 8532,
+					"scenario": 19277
+				},
+				{
+					"path": "IA v5/Entities/Scoring/EntityScoresAdjuster",
+					"mtime": 1776531557000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 365,
+					"total_chars": 13335,
+					"scenario": 19298
+				},
+				{
+					"path": "IA v5/Entities/Scoring/EntityStatsDiviser",
+					"mtime": 1776531479000,
+					"valid": true,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 154,
+					"total_chars": 4664,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Entities/Scoring/MapInfos/CrystalMapInfos",
+					"mtime": 1776531568000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 27,
+					"total_chars": 980,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Entities/Scoring/MapInfos/EntityMapInfos",
+					"mtime": 1776531568000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 16,
+					"total_chars": 275,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Entities/SimulationEntity",
+					"mtime": 1787703707000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 96,
+					"total_chars": 3825,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Entities/Teams/Team",
+					"mtime": 1776531551000,
+					"valid": true,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 109,
+					"total_chars": 3357,
+					"scenario": 27022
+				},
+				{
+					"path": "IA v5/Entities/Teams/TeamMapInfos",
+					"mtime": 1776531563000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 63,
+					"total_chars": 1898,
+					"scenario": 19277
+				},
+				{
+					"path": "IA v5/Entities/Teams/TeamScores",
+					"mtime": 1776531561000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 46,
+					"total_chars": 1305,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Entities/Timeline",
+					"mtime": 1776531559000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 176,
+					"total_chars": 6594,
+					"scenario": 19277
+				},
+				{
+					"path": "IA v5/Entities/Turret",
+					"mtime": 1776531479000,
+					"valid": true,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 29,
+					"total_chars": 671,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Game",
+					"mtime": 1787573051000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 240,
+					"total_chars": 6344,
+					"scenario": 19161
+				},
+				{
+					"path": "IA v5/Items/Chip",
+					"mtime": 1776531479000,
+					"valid": true,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 61,
+					"total_chars": 1583,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Items/Combo",
+					"mtime": 1776531563000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 112,
+					"total_chars": 3510,
+					"scenario": 19277
+				},
+				{
+					"path": "IA v5/Items/Item",
+					"mtime": 1787703921000,
+					"valid": true,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 840,
+					"total_chars": 31134,
+					"scenario": 19277
+				},
+				{
+					"path": "IA v5/Items/Weapon",
+					"mtime": 1776531479000,
+					"valid": true,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 64,
+					"total_chars": 1644,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Map/AccessibleCells",
+					"mtime": 1776531555000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 45,
+					"total_chars": 1313,
+					"scenario": 27022
+				},
+				{
+					"path": "IA v5/Map/Area",
+					"mtime": 1776531551000,
+					"valid": true,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 408,
+					"total_chars": 12375,
+					"scenario": 27022
+				},
+				{
+					"path": "IA v5/Map/Cell",
+					"mtime": 1776531479000,
+					"valid": true,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 133,
+					"total_chars": 3619,
+					"scenario": 27022
+				},
+				{
+					"path": "IA v5/Map/CellMap",
+					"mtime": 1776531479000,
+					"valid": true,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 310,
+					"total_chars": 12629,
+					"scenario": 19277
+				},
+				{
+					"path": "IA v5/Map/DangerMaps/AbstractDangerMap",
+					"mtime": 1776531566000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 50,
+					"total_chars": 1448,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Map/DangerMaps/BossFennelDangerMap",
+					"mtime": 1776531567000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 344,
+					"total_chars": 14266,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Map/DangerMaps/BossNasuDangerMap",
+					"mtime": 1776531566000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 311,
+					"total_chars": 13289,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Map/DangerMaps/BossPumpkinDangerMap",
+					"mtime": 1776531567000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 311,
+					"total_chars": 13292,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Map/DangerMaps/DangerMap",
+					"mtime": 1787870840000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 12714,
+					"total_chars": 494797,
+					"scenario": 19277
+				},
+				{
+					"path": "IA v5/Map/DangerMaps/FarmerDangerMap",
+					"mtime": 1776531566000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 315,
+					"total_chars": 13577,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Map/MoveCell",
+					"mtime": 1776531557000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 44,
+					"total_chars": 1242,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Map/ScoreCell",
+					"mtime": 1776531557000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 4319,
+					"total_chars": 158971,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Map/ScoreMap",
+					"mtime": 1776531555000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 95,
+					"total_chars": 2577,
+					"scenario": 27022
+				},
+				{
+					"path": "IA v5/Map/TargetCell",
+					"mtime": 1787575650000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 18,
+					"total_chars": 447,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Patterns",
+					"mtime": 1787870840000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 12382,
+					"total_chars": 485501,
+					"scenario": 21051
+				},
+				{
+					"path": "IA v5/States/State",
+					"mtime": 1787575405000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 19,
+					"total_chars": 618,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/TODOlist",
+					"mtime": 1776531557000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 7,
+					"total_chars": 444,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Tests",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 51,
+					"total_chars": 1313,
+					"scenario": 19298
+				},
+				{
+					"path": "IA v5/Troph\u00e9es",
+					"mtime": 1787870840000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 12200,
+					"total_chars": 469405,
+					"scenario": 27022
+				},
+				{
+					"path": "IA v5/UnitTests",
+					"mtime": 1776531557000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 110,
+					"total_chars": 2988,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Utils/AllEffects",
+					"mtime": 1776531550000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 52,
+					"total_chars": 1061,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Utils/CollectionUtils",
+					"mtime": 1776531553000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 45,
+					"total_chars": 750,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Utils/Debug",
+					"mtime": 1776531479000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 46,
+					"total_chars": 989,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Utils/Json",
+					"mtime": 1776531559000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 111,
+					"total_chars": 2637,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Utils/Memoize",
+					"mtime": 1776531479000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 79,
+					"total_chars": 1576,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Utils/Register",
+					"mtime": 1776531558000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 43,
+					"total_chars": 1030,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/Utils/RegistersManager",
+					"mtime": 1776531560000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 31,
+					"total_chars": 925,
+					"scenario": null
+				},
+				{
+					"path": "IA v5/ZombIA",
+					"mtime": 1776531565000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 327,
+					"total_chars": 10471,
+					"scenario": 19277
+				},
+				{
+					"path": "IA v6/BenchCellAccessible",
+					"mtime": 1788044106000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 8653,
+					"total_chars": 358822,
+					"scenario": 84041
+				},
+				{
+					"path": "IA v6/BenchGCTU",
+					"mtime": 1788044106000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 8537,
+					"total_chars": 353948,
+					"scenario": 84079
+				},
+				{
+					"path": "IA v6/Brain",
+					"mtime": 1788044106000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 8363,
+					"total_chars": 345072,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Demandent",
+					"mtime": 1787699301000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 6,
+					"total_chars": 526,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/AbsoluteShieldEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 29,
+					"total_chars": 1842,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/AbsoluteVulnerabilityEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 27,
+					"total_chars": 1660,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/AddStateEffect",
+					"mtime": 1788044106000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 8377,
+					"total_chars": 345694,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/AfterEffectEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 57,
+					"total_chars": 2646,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/AntidoteEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 31,
+					"total_chars": 1501,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/AttractEffect",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 17,
+					"total_chars": 522,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/BoostMaxLifeEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 24,
+					"total_chars": 1349,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/BuffAgilityEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 29,
+					"total_chars": 1727,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/BuffMpEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 29,
+					"total_chars": 1769,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/BuffResistanceEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 29,
+					"total_chars": 1807,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/BuffStrengthEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 29,
+					"total_chars": 1801,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/BuffTpEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 29,
+					"total_chars": 1685,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/BuffWisdomEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 29,
+					"total_chars": 1675,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/DamageEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 102,
+					"total_chars": 4661,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/DamageReturnEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 24,
+					"total_chars": 1536,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/DebuffEffect",
+					"mtime": 1787720579000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 60,
+					"total_chars": 3322,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/Effect",
+					"mtime": 1787721349000,
+					"valid": true,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 787,
+					"total_chars": 42475,
+					"scenario": 84019
+				},
+				{
+					"path": "IA v6/Effects/HealEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 54,
+					"total_chars": 2880,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/InvertEffect",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 16,
+					"total_chars": 671,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/KillEffect",
+					"mtime": 1788044106000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 8387,
+					"total_chars": 345936,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/LifeDamageEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 69,
+					"total_chars": 3202,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/NovaDamageEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 63,
+					"total_chars": 2692,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/NovaVitalityEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 22,
+					"total_chars": 1195,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/Passives/AllyKillToAgilityEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 15,
+					"total_chars": 836,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/Passives/CriticalToHealEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 15,
+					"total_chars": 700,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/Passives/DamageToAbsoluteShieldEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 17,
+					"total_chars": 974,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/Passives/DamageToStrengthEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 17,
+					"total_chars": 974,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/Passives/KillToTpEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 15,
+					"total_chars": 812,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/Passives/MovedToMpEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 15,
+					"total_chars": 813,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/Passives/NovaDamageToMagicEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 17,
+					"total_chars": 966,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/Passives/PassiveEffect",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 30,
+					"total_chars": 1056,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/Passives/PoisonToScienceEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 17,
+					"total_chars": 970,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/PoisonEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 34,
+					"total_chars": 1755,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/PushEffect",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 17,
+					"total_chars": 513,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/RawAbsoluteShieldEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 27,
+					"total_chars": 1617,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/RawBuffAgilityEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 27,
+					"total_chars": 1491,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/RawBuffMagicEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 27,
+					"total_chars": 1611,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/RawBuffMpEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 27,
+					"total_chars": 1591,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/RawBuffPowerEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 27,
+					"total_chars": 1531,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/RawBuffResistanceEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 27,
+					"total_chars": 1678,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/RawBuffScienceEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 27,
+					"total_chars": 1517,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/RawBuffStrengthEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 27,
+					"total_chars": 1629,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/RawBuffTpEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 27,
+					"total_chars": 1492,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/RawBuffWisdomEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 27,
+					"total_chars": 1512,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/RawHealEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 37,
+					"total_chars": 1743,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/RawRelativeShieldEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 27,
+					"total_chars": 1576,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/RelativeShieldEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 29,
+					"total_chars": 1779,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/RemoveShackleEffect",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 8,
+					"total_chars": 287,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/RessurectEffect",
+					"mtime": 1788044106000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 8385,
+					"total_chars": 346032,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/ShackleAgilityEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 29,
+					"total_chars": 1727,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/ShackleMagicEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 29,
+					"total_chars": 1715,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/ShackleMpEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 29,
+					"total_chars": 1699,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/ShackleStrengthEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 29,
+					"total_chars": 1727,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/ShackleTpEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 29,
+					"total_chars": 1714,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/ShackleWisdomEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 29,
+					"total_chars": 1715,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/State",
+					"mtime": 1787720579000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 17,
+					"total_chars": 385,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/StealAbsoluteShieldEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 28,
+					"total_chars": 1742,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/SummonEffect",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 8,
+					"total_chars": 256,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/TeleportEffect",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 8,
+					"total_chars": 281,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Effects/VulnerabilityEffect",
+					"mtime": 1787721226000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 22,
+					"total_chars": 1274,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/Boss",
+					"mtime": 1787720579000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 32,
+					"total_chars": 826,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/Bosses/Fennel/Crystal",
+					"mtime": 1787720668000,
+					"valid": false,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 48,
+					"total_chars": 1479,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/Bosses/Fennel/Graal",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 27,
+					"total_chars": 654,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/Bosses/Fennel/King",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 26,
+					"total_chars": 595,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/Bosses/Fennel/Knight",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 26,
+					"total_chars": 691,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/Bosses/Fennel/Scribe",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 26,
+					"total_chars": 691,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/Bosses/Fennel/Squire",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 26,
+					"total_chars": 691,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/Bulb",
+					"mtime": 1787720660000,
+					"valid": false,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 80,
+					"total_chars": 2435,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/Chest",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 42,
+					"total_chars": 1200,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/EntitiesImports",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 13,
+					"total_chars": 318,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/Entity",
+					"mtime": 1787951780000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 586,
+					"total_chars": 18828,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/EntityEffect",
+					"mtime": 1787720579000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 110,
+					"total_chars": 6151,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/EntityStats",
+					"mtime": 1787720579000,
+					"valid": true,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 647,
+					"total_chars": 21631,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/Leek",
+					"mtime": 1787721249000,
+					"valid": true,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 96,
+					"total_chars": 3030,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/Scoring/CrystalScoresAdjuster",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 25,
+					"total_chars": 404,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/Scoring/EntityScores",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 168,
+					"total_chars": 8557,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/Scoring/EntityScoresAdjuster",
+					"mtime": 1788030835000,
+					"valid": false,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 362,
+					"total_chars": 15985,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/Scoring/EntityStatsDiviser",
+					"mtime": 1788044106000,
+					"valid": false,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 153,
+					"total_chars": 4616,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/Scoring/MapInfos/CrystalMapInfos",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 30,
+					"total_chars": 945,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/Scoring/MapInfos/EntityMapInfos",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 17,
+					"total_chars": 289,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/SimulationEntity",
+					"mtime": 1788016334000,
+					"valid": false,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 120,
+					"total_chars": 4406,
+					"scenario": 84064
+				},
+				{
+					"path": "IA v6/Entities/Teams/Team",
+					"mtime": 1787951678000,
+					"valid": true,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 146,
+					"total_chars": 4255,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/Teams/TeamMapInfos",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 64,
+					"total_chars": 1908,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/Teams/TeamScores",
+					"mtime": 1788030903000,
+					"valid": false,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 46,
+					"total_chars": 1479,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/Timeline",
+					"mtime": 1787998225000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 178,
+					"total_chars": 6604,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Entities/Turret",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 31,
+					"total_chars": 696,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Field/AccessibleCells",
+					"mtime": 1787846461000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 46,
+					"total_chars": 1287,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Field/Area",
+					"mtime": 1787987000000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 606,
+					"total_chars": 26974,
+					"scenario": 84019
+				},
+				{
+					"path": "IA v6/Field/Cell",
+					"mtime": 1787893793000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 137,
+					"total_chars": 3956,
+					"scenario": 84041
+				},
+				{
+					"path": "IA v6/Field/Field",
+					"mtime": 1787882514000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 284,
+					"total_chars": 11873,
+					"scenario": 84041
+				},
+				{
+					"path": "IA v6/Field/MoveCell",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 44,
+					"total_chars": 1405,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Field/TargetCell",
+					"mtime": 1787720579000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 19,
+					"total_chars": 499,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Fight",
+					"mtime": 1787963177000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 137,
+					"total_chars": 4047,
+					"scenario": 19277
+				},
+				{
+					"path": "IA v6/Items/Chip",
+					"mtime": 1787720579000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 58,
+					"total_chars": 1521,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Items/Combo",
+					"mtime": 1788029003000,
+					"valid": false,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 120,
+					"total_chars": 4183,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Items/Item",
+					"mtime": 1788016196000,
+					"valid": false,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 926,
+					"total_chars": 40245,
+					"scenario": 84019
+				},
+				{
+					"path": "IA v6/Items/Weapon",
+					"mtime": 1787720579000,
+					"valid": true,
+					"version": 4,
+					"strict": true,
+					"entrypoint": false,
+					"total_lines": 62,
+					"total_chars": 1864,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/UnitTest",
+					"mtime": 1788044106000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 8647,
+					"total_chars": 354888,
+					"scenario": 84079
+				},
+				{
+					"path": "IA v6/Utils/CollectionUtils",
+					"mtime": 1787964807000,
+					"valid": false,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 17,
+					"total_chars": 229,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Utils/Colors",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 6,
+					"total_chars": 190,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Utils/Debug",
+					"mtime": 1787894673000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 46,
+					"total_chars": 959,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Utils/Event",
+					"mtime": 1787829789000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 37,
+					"total_chars": 838,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Utils/Json",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 110,
+					"total_chars": 2622,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Utils/Mark",
+					"mtime": 1787834114000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 8342,
+					"total_chars": 338990,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Utils/Memoize",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 79,
+					"total_chars": 1576,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Utils/Register",
+					"mtime": 1787716327000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 44,
+					"total_chars": 1027,
+					"scenario": null
+				},
+				{
+					"path": "IA v6/Utils/RegisterManager",
+					"mtime": 1787894673000,
+					"valid": true,
+					"version": 4,
+					"strict": false,
+					"entrypoint": false,
+					"total_lines": 268,
+					"total_chars": 6646,
+					"scenario": null
+				}
+			],
+			"bin": [
+				{ "path": "BenchCellAccessible", "valid": true, "version": 3 },
+				{ "path": "IA_v6.code-workspace", "valid": true, "version": 4 },
+				{ "path": "Item.leek", "valid": true, "version": 4 },
+				{ "path": "SingleFile", "valid": true, "version": 4 },
+				{ "path": "Test.js", "valid": true, "version": 4 },
+				{ "path": "Test2.ts", "valid": true, "version": 4 },
+				{ "path": "Test3.py", "valid": true, "version": 4 },
+				{ "path": "Weapon", "valid": true, "version": 4 },
+				{ "path": "a.js", "valid": true, "version": 4 },
+				{ "path": "e.py", "valid": true, "version": 4 },
+				{ "path": "z.ts", "valid": true, "version": 4 }
+			],
+			"folders": [
+				"IA v5",
+				"IA v5/Actions",
+				"IA v5/Effects",
+				"IA v5/Effects/Passives",
+				"IA v5/Entities",
+				"IA v5/Entities/Bosses",
+				"IA v5/Entities/Bosses/Fennel",
+				"IA v5/Entities/Scoring",
+				"IA v5/Entities/Scoring/MapInfos",
+				"IA v5/Entities/Teams",
+				"IA v5/Items",
+				"IA v5/Map",
+				"IA v5/Map/DangerMaps",
+				"IA v5/States",
+				"IA v5/Utils",
+				"IA v6",
+				"IA v6/Effects",
+				"IA v6/Effects/Passives",
+				"IA v6/Entities",
+				"IA v6/Entities/Bosses",
+				"IA v6/Entities/Bosses/Fennel",
+				"IA v6/Entities/Scoring",
+				"IA v6/Entities/Scoring/MapInfos",
+				"IA v6/Entities/Teams",
+				"IA v6/Field",
+				"IA v6/Items",
+				"IA v6/Utils"
+			],
+			"leek_ais": {
+				"21631": "IA v5/Brain42",
+				"23245": "IA v5/Brain42",
+				"34341": "IA v5/Brain42",
+				"38241": "IA v5/Brain42"
+			}
+		},
+		"potions": [
+			{
+				"id": 1687505,
+				"template": 245,
+				"quantity": 3,
+				"time": 1737907572
+			},
+			{
+				"id": 1876339,
+				"template": 246,
+				"quantity": 3,
+				"time": 1738445468
+			},
+			{
+				"id": 1849333,
+				"template": 263,
+				"quantity": 8,
+				"time": 1768051730
+			},
+			{
+				"id": 614710,
+				"template": 50,
+				"quantity": 68,
+				"time": 1735231977
+			},
+			{
+				"id": 1454849,
+				"template": 251,
+				"quantity": 14,
+				"time": 1735231859
+			},
+			{ "id": 568720, "template": 53, "quantity": 2, "time": 1703463875 },
+			{
+				"id": 1686415,
+				"template": 49,
+				"quantity": 970,
+				"time": 1788033428
+			},
+			{
+				"id": 2000437,
+				"template": 264,
+				"quantity": 2,
+				"time": 1758201001
+			},
+			{ "id": 1454845, "template": 249, "quantity": 1, "time": 1454845 },
+			{ "id": 1454846, "template": 257, "quantity": 1, "time": 1454846 },
+			{
+				"id": 1454848,
+				"template": 254,
+				"quantity": 2,
+				"time": 1703463689
+			},
+			{ "id": 1466850, "template": 260, "quantity": 1, "time": 1466850 },
+			{ "id": 525888, "template": 57, "quantity": 1, "time": 525888 },
+			{ "id": 568721, "template": 54, "quantity": 1, "time": 568721 },
+			{ "id": 580171, "template": 82, "quantity": 1, "time": 580171 },
+			{ "id": 611799, "template": 56, "quantity": 1, "time": 611799 },
+			{ "id": 614707, "template": 55, "quantity": 1, "time": 614707 },
+			{ "id": 614708, "template": 66, "quantity": 1, "time": 614708 },
+			{ "id": 614709, "template": 64, "quantity": 1, "time": 614709 },
+			{ "id": 614706, "template": 52, "quantity": 3, "time": 1735231764 },
+			{ "id": 617584, "template": 61, "quantity": 1, "time": 617584 },
+			{ "id": 618265, "template": 63, "quantity": 1, "time": 618265 },
+			{ "id": 621250, "template": 65, "quantity": 1, "time": 621250 },
+			{ "id": 623170, "template": 62, "quantity": 1, "time": 623170 },
+			{ "id": 856916, "template": 140, "quantity": 1, "time": 856916 },
+			{ "id": 856917, "template": 139, "quantity": 1, "time": 856917 },
+			{ "id": 856918, "template": 137, "quantity": 1, "time": 856918 },
+			{ "id": 856919, "template": 138, "quantity": 1, "time": 856919 },
+			{
+				"id": 568722,
+				"template": 51,
+				"quantity": 11,
+				"time": 1735231855
+			},
+			{ "id": 975429, "template": 176, "quantity": 29, "time": 975429 },
+			{ "id": 1454843, "template": 253, "quantity": 1, "time": 1454843 },
+			{ "id": 1454847, "template": 252, "quantity": 1, "time": 1454847 },
+			{
+				"id": 1454850,
+				"template": 244,
+				"quantity": 6,
+				"time": 1735231790
+			},
+			{
+				"id": 1234426,
+				"template": 247,
+				"quantity": 50,
+				"time": 1787863627
+			},
+			{ "id": 1466851, "template": 243, "quantity": 1, "time": 1466851 },
+			{ "id": 1466852, "template": 258, "quantity": 1, "time": 1466852 },
+			{ "id": 1356814, "template": 281, "quantity": 1, "time": 1356814 }
+		],
+		"hats": [
+			{
+				"id": 1475437,
+				"template": 178,
+				"level": 1,
+				"name": "crystal_crown_green",
+				"hat_template": 22,
+				"quantity": 1,
+				"time": 1699708774
+			},
+			{
+				"id": 614713,
+				"template": 71,
+				"level": 1,
+				"name": "green_christmas_hat",
+				"hat_template": 3,
+				"quantity": 8,
+				"time": 1703463472
+			},
+			{
+				"id": 465395,
+				"template": 69,
+				"level": 1,
+				"name": "christmas_hat",
+				"hat_template": 1,
+				"quantity": 60,
+				"time": 1735231992
+			},
+			{
+				"id": 525890,
+				"template": 70,
+				"level": 1,
+				"name": "fedora",
+				"hat_template": 2,
+				"quantity": 9,
+				"time": 1735231783
+			},
+			{
+				"id": 1455350,
+				"template": 269,
+				"level": 1,
+				"name": "mortarboard",
+				"hat_template": 31,
+				"quantity": 12,
+				"time": 1735231859
+			},
+			{
+				"id": 1756910,
+				"template": 227,
+				"level": 1,
+				"name": "grey_topper",
+				"hat_template": 30,
+				"quantity": 60,
+				"time": 1735231929
+			},
+			{
+				"id": 1455351,
+				"template": 287,
+				"level": 1,
+				"name": "cap",
+				"hat_template": 41,
+				"quantity": 11,
+				"time": 1735231857
+			},
+			{
+				"id": 1455349,
+				"template": 270,
+				"level": 1,
+				"name": "saint_patrick",
+				"hat_template": 32,
+				"quantity": 1,
+				"time": 1455349
+			},
+			{
+				"id": 1455348,
+				"template": 283,
+				"level": 1,
+				"name": "panama",
+				"hat_template": 37,
+				"quantity": 2,
+				"time": 1703463919
+			},
+			{
+				"id": 594934,
+				"template": 86,
+				"level": 1,
+				"name": "harlequin",
+				"hat_template": 6,
+				"quantity": 1,
+				"time": 594934
+			},
+			{
+				"id": 570966,
+				"template": 112,
+				"level": 1,
+				"name": "wizard_hat",
+				"hat_template": 9,
+				"quantity": 2,
+				"time": 1735231777
+			},
+			{
+				"id": 614711,
+				"template": 113,
+				"level": 1,
+				"name": "mugiwara",
+				"hat_template": 10,
+				"quantity": 1,
+				"time": 614711
+			},
+			{
+				"id": 614714,
+				"template": 72,
+				"level": 1,
+				"name": "cyan_christmas_hat",
+				"hat_template": 4,
+				"quantity": 5,
+				"time": 1735231764
+			},
+			{
+				"id": 1030944,
+				"template": 177,
+				"level": 1,
+				"name": "crystal_crown",
+				"hat_template": 21,
+				"quantity": 4,
+				"time": 1030944
+			},
+			{
+				"id": 873598,
+				"template": 131,
+				"level": 1,
+				"name": "white_harlequin",
+				"hat_template": 15,
+				"quantity": 1,
+				"time": 873598
+			},
+			{
+				"id": 873597,
+				"template": 133,
+				"level": 1,
+				"name": "blue_wizard_hat",
+				"hat_template": 17,
+				"quantity": 2,
+				"time": 1703463910
+			},
+			{
+				"id": 873596,
+				"template": 129,
+				"level": 1,
+				"name": "black_chinese_hat",
+				"hat_template": 13,
+				"quantity": 1,
+				"time": 873596
+			},
+			{
+				"id": 1133382,
+				"template": 222,
+				"level": 1,
+				"name": "laurel_wreath",
+				"hat_template": 27,
+				"quantity": 1,
+				"time": 1133382
+			},
+			{
+				"id": 1133384,
+				"template": 221,
+				"level": 1,
+				"name": "pirate_hat",
+				"hat_template": 26,
+				"quantity": 1,
+				"time": 1133384
+			},
+			{
+				"id": 1133385,
+				"template": 220,
+				"level": 1,
+				"name": "sombrero",
+				"hat_template": 25,
+				"quantity": 1,
+				"time": 1133385
+			},
+			{
+				"id": 1133386,
+				"template": 219,
+				"level": 1,
+				"name": "bicorn",
+				"hat_template": 24,
+				"quantity": 1,
+				"time": 1133386
+			},
+			{
+				"id": 1455344,
+				"template": 272,
+				"level": 1,
+				"name": "space_hat",
+				"hat_template": 34,
+				"quantity": 1,
+				"time": 1455344
+			},
+			{
+				"id": 1455345,
+				"template": 286,
+				"level": 1,
+				"name": "cubic_hat",
+				"hat_template": 40,
+				"quantity": 1,
+				"time": 1455345
+			},
+			{
+				"id": 1455346,
+				"template": 271,
+				"level": 1,
+				"name": "red_sombrero",
+				"hat_template": 33,
+				"quantity": 2,
+				"time": 1703463888
+			},
+			{
+				"id": 580172,
+				"template": 83,
+				"level": 1,
+				"name": "crown",
+				"hat_template": 5,
+				"quantity": 4,
+				"time": 580172
+			},
+			{
+				"id": 1356815,
+				"template": 279,
+				"level": 1,
+				"name": "black_fedora",
+				"hat_template": 35,
+				"quantity": 1,
+				"time": 1356815
+			},
+			{
+				"id": 614712,
+				"template": 111,
+				"level": 1,
+				"name": "chinese_hat",
+				"hat_template": 8,
+				"quantity": 1,
+				"time": 614712
+			}
+		],
+		"resources": [
+			{
+				"id": 1037173,
+				"template": 183,
+				"quantity": 1302,
+				"time": 1787760584
+			},
+			{
+				"id": 1036997,
+				"template": 202,
+				"quantity": 4083,
+				"time": 1787934622
+			},
+			{
+				"id": 1052853,
+				"template": 185,
+				"quantity": 148,
+				"time": 1782237800
+			},
+			{
+				"id": 1194511,
+				"template": 238,
+				"quantity": 16699,
+				"time": 1787936438
+			},
+			{
+				"id": 1051338,
+				"template": 216,
+				"quantity": 316,
+				"time": 1787763641
+			},
+			{
+				"id": 1757173,
+				"template": 387,
+				"quantity": 8,
+				"time": 1735231795
+			},
+			{
+				"id": 1061323,
+				"template": 217,
+				"quantity": 326,
+				"time": 1787851578
+			},
+			{
+				"id": 1697567,
+				"template": 368,
+				"quantity": 107,
+				"time": 1735231980
+			},
+			{
+				"id": 1039559,
+				"template": 200,
+				"quantity": 209,
+				"time": 1787954853
+			},
+			{
+				"id": 1756875,
+				"template": 380,
+				"quantity": 86,
+				"time": 1735231980
+			},
+			{
+				"id": 1756876,
+				"template": 378,
+				"quantity": 104,
+				"time": 1735231862
+			},
+			{
+				"id": 1691602,
+				"template": 386,
+				"quantity": 268,
+				"time": 1735231957
+			},
+			{
+				"id": 1194656,
+				"template": 239,
+				"quantity": 7339,
+				"time": 1787936438
+			},
+			{
+				"id": 1689447,
+				"template": 379,
+				"quantity": 296,
+				"time": 1735231937
+			},
+			{
+				"id": 1688012,
+				"template": 377,
+				"quantity": 277,
+				"time": 1787996905
+			},
+			{
+				"id": 1036041,
+				"template": 196,
+				"quantity": 41857,
+				"time": 1787936438
+			},
+			{
+				"id": 1194262,
+				"template": 206,
+				"quantity": 5576,
+				"time": 1787897840
+			},
+			{
+				"id": 1056308,
+				"template": 213,
+				"quantity": 317,
+				"time": 1787955471
+			},
+			{
+				"id": 1037165,
+				"template": 188,
+				"quantity": 3305,
+				"time": 1787934622
+			},
+			{
+				"id": 1056303,
+				"template": 214,
+				"quantity": 325,
+				"time": 1787863219
+			},
+			{
+				"id": 1034183,
+				"template": 189,
+				"quantity": 3333,
+				"time": 1787851701
+			},
+			{
+				"id": 1044400,
+				"template": 192,
+				"quantity": 7606,
+				"time": 1787955471
+			},
+			{
+				"id": 1034328,
+				"template": 197,
+				"quantity": 3285,
+				"time": 1788021818
+			},
+			{
+				"id": 1052925,
+				"template": 207,
+				"quantity": 306,
+				"time": 1787246066
+			},
+			{
+				"id": 1030977,
+				"template": 199,
+				"quantity": 3257,
+				"time": 1787897614
+			},
+			{
+				"id": 2543118,
+				"template": 432,
+				"quantity": 34,
+				"time": 1788040275
+			},
+			{
+				"id": 2373066,
+				"template": 209,
+				"quantity": 1413,
+				"time": 1766667442
+			},
+			{
+				"id": 2373067,
+				"template": 210,
+				"quantity": 672,
+				"time": 1766667442
+			},
+			{
+				"id": 1263581,
+				"template": 208,
+				"quantity": 17260,
+				"time": 1766687577
+			},
+			{
+				"id": 1194267,
+				"template": 236,
+				"quantity": 14763,
+				"time": 1788031501
+			},
+			{
+				"id": 1194269,
+				"template": 234,
+				"quantity": 5285,
+				"time": 1787955529
+			},
+			{
+				"id": 1193516,
+				"template": 235,
+				"quantity": 5193,
+				"time": 1787897614
+			},
+			{
+				"id": 1050752,
+				"template": 201,
+				"quantity": 590,
+				"time": 1787826097
+			},
+			{
+				"id": 1036996,
+				"template": 186,
+				"quantity": 312,
+				"time": 1786922459
+			},
+			{
+				"id": 1030897,
+				"template": 194,
+				"quantity": 62846,
+				"time": 1788043402
+			},
+			{
+				"id": 1031519,
+				"template": 181,
+				"quantity": 12678,
+				"time": 1788021820
+			},
+			{
+				"id": 1026902,
+				"template": 204,
+				"quantity": 61918,
+				"time": 1788045659
+			},
+			{
+				"id": 1194305,
+				"template": 237,
+				"quantity": 5387,
+				"time": 1788021820
+			},
+			{
+				"id": 1052598,
+				"template": 215,
+				"quantity": 5517,
+				"time": 1788045659
+			},
+			{
+				"id": 1055746,
+				"template": 218,
+				"quantity": 322,
+				"time": 1787613058
+			},
+			{
+				"id": 2373582,
+				"template": 211,
+				"quantity": 62,
+				"time": 1766664344
+			},
+			{
+				"id": 1030701,
+				"template": 198,
+				"quantity": 3263,
+				"time": 1788021820
+			},
+			{
+				"id": 1024598,
+				"template": 203,
+				"quantity": 76125,
+				"time": 1788045659
+			},
+			{
+				"id": 1027904,
+				"template": 193,
+				"quantity": 62111,
+				"time": 1788021842
+			},
+			{
+				"id": 1194261,
+				"template": 231,
+				"quantity": 14772,
+				"time": 1787955547
+			},
+			{
+				"id": 1044424,
+				"template": 190,
+				"quantity": 3247,
+				"time": 1787897834
+			},
+			{
+				"id": 1193515,
+				"template": 233,
+				"quantity": 15124,
+				"time": 1787955465
+			},
+			{
+				"id": 1052599,
+				"template": 205,
+				"quantity": 15471,
+				"time": 1788025887
+			},
+			{
+				"id": 1031518,
+				"template": 191,
+				"quantity": 62645,
+				"time": 1788021818
+			},
+			{
+				"id": 2396313,
+				"template": 212,
+				"quantity": 1,
+				"time": 1766392801
+			},
+			{
+				"id": 1030700,
+				"template": 195,
+				"quantity": 63228,
+				"time": 1788031501
+			},
+			{
+				"id": 1193280,
+				"template": 232,
+				"quantity": 14823,
+				"time": 1788045659
+			},
+			{
+				"id": 1235200,
+				"template": 228,
+				"quantity": 137,
+				"time": 1787840648
+			},
+			{
+				"id": 1757169,
+				"template": 288,
+				"quantity": 8,
+				"time": 1735231764
+			},
+			{
+				"id": 2177614,
+				"template": 289,
+				"quantity": 1,
+				"time": 1735231748
+			},
+			{
+				"id": 1194719,
+				"template": 229,
+				"quantity": 111,
+				"time": 1787856993
+			},
+			{
+				"id": 1717701,
+				"template": 230,
+				"quantity": 20,
+				"time": 1787246066
+			}
+		],
+		"components": [
+			{
+				"id": 1553053,
+				"template": 406,
+				"quantity": 4,
+				"time": 1705278075
+			},
+			{
+				"id": 1648759,
+				"template": 407,
+				"quantity": 4,
+				"time": 1705278075
+			},
+			{
+				"id": 1691039,
+				"template": 321,
+				"quantity": 208,
+				"time": 1735231992
+			},
+			{
+				"id": 1690729,
+				"template": 297,
+				"quantity": 210,
+				"time": 1735231992
+			},
+			{
+				"id": 1689864,
+				"template": 313,
+				"quantity": 217,
+				"time": 1735231992
+			},
+			{
+				"id": 1690673,
+				"template": 302,
+				"quantity": 200,
+				"time": 1735231992
+			},
+			{
+				"id": 1689880,
+				"template": 304,
+				"quantity": 306,
+				"time": 1735231932
+			},
+			{
+				"id": 1691070,
+				"template": 294,
+				"quantity": 323,
+				"time": 1787560662
+			},
+			{
+				"id": 1695398,
+				"template": 290,
+				"quantity": 351,
+				"time": 1735231939
+			},
+			{
+				"id": 1699087,
+				"template": 317,
+				"quantity": 298,
+				"time": 1735231937
+			},
+			{
+				"id": 1699736,
+				"template": 319,
+				"quantity": 279,
+				"time": 1735231934
+			},
+			{
+				"id": 1691217,
+				"template": 293,
+				"quantity": 303,
+				"time": 1735231955
+			},
+			{
+				"id": 1691221,
+				"template": 316,
+				"quantity": 309,
+				"time": 1735231949
+			},
+			{
+				"id": 1699090,
+				"template": 370,
+				"quantity": 103,
+				"time": 1735231975
+			},
+			{
+				"id": 1699738,
+				"template": 373,
+				"quantity": 100,
+				"time": 1735231982
+			},
+			{
+				"id": 1691246,
+				"template": 311,
+				"quantity": 100,
+				"time": 1735231977
+			},
+			{
+				"id": 1756870,
+				"template": 383,
+				"quantity": 88,
+				"time": 1735231975
+			},
+			{
+				"id": 1756899,
+				"template": 310,
+				"quantity": 100,
+				"time": 1735231972
+			},
+			{
+				"id": 1756871,
+				"template": 376,
+				"quantity": 90,
+				"time": 1735231980
+			},
+			{
+				"id": 1691341,
+				"template": 303,
+				"quantity": 105,
+				"time": 1735231859
+			},
+			{
+				"id": 1756872,
+				"template": 385,
+				"quantity": 89,
+				"time": 1735231975
+			},
+			{
+				"id": 1756873,
+				"template": 324,
+				"quantity": 92,
+				"time": 1735231980
+			},
+			{
+				"id": 1689973,
+				"template": 295,
+				"quantity": 15,
+				"time": 1735231790
+			},
+			{
+				"id": 1757171,
+				"template": 381,
+				"quantity": 11,
+				"time": 1735231786
+			},
+			{
+				"id": 1691290,
+				"template": 305,
+				"quantity": 9,
+				"time": 1708676371
+			},
+			{
+				"id": 1976426,
+				"template": 314,
+				"quantity": 4,
+				"time": 1735231798
+			},
+			{
+				"id": 1757176,
+				"template": 372,
+				"quantity": 12,
+				"time": 1735231798
+			},
+			{
+				"id": 1757154,
+				"template": 322,
+				"quantity": 15,
+				"time": 1735231790
+			},
+			{
+				"id": 1691295,
+				"template": 298,
+				"quantity": 14,
+				"time": 1735231795
+			},
+			{
+				"id": 1757170,
+				"template": 307,
+				"quantity": 5,
+				"time": 1735231795
+			},
+			{
+				"id": 1757153,
+				"template": 365,
+				"quantity": 8,
+				"time": 1735231790
+			},
+			{
+				"id": 1757152,
+				"template": 323,
+				"quantity": 8,
+				"time": 1735231798
+			},
+			{
+				"id": 1741312,
+				"template": 291,
+				"quantity": 13,
+				"time": 1735231757
+			},
+			{
+				"id": 1757162,
+				"template": 309,
+				"quantity": 14,
+				"time": 1735231798
+			},
+			{
+				"id": 1757234,
+				"template": 308,
+				"quantity": 2,
+				"time": 1735231751
+			},
+			{
+				"id": 1757208,
+				"template": 292,
+				"quantity": 1,
+				"time": 1718392174
+			},
+			{
+				"id": 2177612,
+				"template": 296,
+				"quantity": 1,
+				"time": 1735231736
+			},
+			{
+				"id": 2177613,
+				"template": 315,
+				"quantity": 1,
+				"time": 1735231743
+			}
+		],
+		"schemes": [
+			{
+				"id": 1687790,
+				"template": 391,
+				"quantity": 1,
+				"time": 1701550091
+			},
+			{
+				"id": 1687817,
+				"template": 360,
+				"quantity": 1,
+				"time": 1701550152
+			},
+			{
+				"id": 1822287,
+				"template": 364,
+				"quantity": 1,
+				"time": 1706382026
+			},
+			{
+				"id": 1719641,
+				"template": 362,
+				"quantity": 1,
+				"time": 1702282666
+			},
+			{
+				"id": 1729898,
+				"template": 361,
+				"quantity": 1,
+				"time": 1702675876
+			},
+			{
+				"id": 1690899,
+				"template": 363,
+				"quantity": 1,
+				"time": 1701562849
+			},
+			{
+				"id": 1945001,
+				"template": 426,
+				"quantity": 1,
+				"time": 1715940117
+			},
+			{
+				"id": 1945002,
+				"template": 427,
+				"quantity": 1,
+				"time": 1715940117
+			},
+			{
+				"id": 2552788,
+				"template": 519,
+				"quantity": 1,
+				"time": 1786521589
+			},
+			{
+				"id": 2516705,
+				"template": 512,
+				"quantity": 1,
+				"time": 1781860766
+			},
+			{
+				"id": 2569982,
+				"template": 520,
+				"quantity": 1,
+				"time": 1787755149
+			},
+			{
+				"id": 1687769,
+				"template": 356,
+				"quantity": 1,
+				"time": 1701550073
+			},
+			{
+				"id": 1687789,
+				"template": 332,
+				"quantity": 1,
+				"time": 1701550091
+			},
+			{
+				"id": 1687958,
+				"template": 348,
+				"quantity": 1,
+				"time": 1701550302
+			},
+			{
+				"id": 1687791,
+				"template": 337,
+				"quantity": 1,
+				"time": 1701550091
+			},
+			{
+				"id": 1687770,
+				"template": 339,
+				"quantity": 1,
+				"time": 1701550073
+			},
+			{
+				"id": 1687795,
+				"template": 329,
+				"quantity": 1,
+				"time": 1701550098
+			},
+			{
+				"id": 1687794,
+				"template": 325,
+				"quantity": 1,
+				"time": 1701550098
+			},
+			{
+				"id": 1687771,
+				"template": 352,
+				"quantity": 1,
+				"time": 1701550073
+			},
+			{
+				"id": 1687946,
+				"template": 354,
+				"quantity": 1,
+				"time": 1701550291
+			},
+			{
+				"id": 1687787,
+				"template": 328,
+				"quantity": 1,
+				"time": 1701550091
+			},
+			{
+				"id": 1687799,
+				"template": 351,
+				"quantity": 1,
+				"time": 1701550100
+			},
+			{
+				"id": 1687815,
+				"template": 398,
+				"quantity": 1,
+				"time": 1701550151
+			},
+			{
+				"id": 1687933,
+				"template": 405,
+				"quantity": 1,
+				"time": 1701550281
+			},
+			{
+				"id": 1687862,
+				"template": 346,
+				"quantity": 1,
+				"time": 1701550197
+			},
+			{
+				"id": 1705943,
+				"template": 421,
+				"quantity": 1,
+				"time": 1701782066
+			},
+			{
+				"id": 1687793,
+				"template": 345,
+				"quantity": 1,
+				"time": 1701550098
+			},
+			{
+				"id": 1687798,
+				"template": 404,
+				"quantity": 1,
+				"time": 1701550100
+			},
+			{
+				"id": 1687797,
+				"template": 338,
+				"quantity": 1,
+				"time": 1701550100
+			},
+			{
+				"id": 1707588,
+				"template": 424,
+				"quantity": 1,
+				"time": 1701813378
+			},
+			{
+				"id": 1687932,
+				"template": 359,
+				"quantity": 1,
+				"time": 1701550281
+			},
+			{
+				"id": 2491181,
+				"template": 503,
+				"quantity": 1,
+				"time": 1776918432
+			},
+			{
+				"id": 1688252,
+				"template": 330,
+				"quantity": 1,
+				"time": 1701552229
+			},
+			{
+				"id": 1707573,
+				"template": 420,
+				"quantity": 1,
+				"time": 1701813166
+			},
+			{
+				"id": 1687816,
+				"template": 340,
+				"quantity": 1,
+				"time": 1701550152
+			},
+			{
+				"id": 1687788,
+				"template": 349,
+				"quantity": 1,
+				"time": 1701550091
+			},
+			{
+				"id": 1687814,
+				"template": 400,
+				"quantity": 1,
+				"time": 1701550151
+			},
+			{
+				"id": 1687966,
+				"template": 357,
+				"quantity": 1,
+				"time": 1701550303
+			},
+			{
+				"id": 1687922,
+				"template": 333,
+				"quantity": 1,
+				"time": 1701550273
+			},
+			{
+				"id": 2554699,
+				"template": 521,
+				"quantity": 1,
+				"time": 1786643358
+			},
+			{
+				"id": 1687774,
+				"template": 394,
+				"quantity": 1,
+				"time": 1701550073
+			},
+			{
+				"id": 1687964,
+				"template": 396,
+				"quantity": 1,
+				"time": 1701550303
+			},
+			{
+				"id": 1687772,
+				"template": 342,
+				"quantity": 1,
+				"time": 1701550073
+			},
+			{
+				"id": 1687775,
+				"template": 393,
+				"quantity": 1,
+				"time": 1701550073
+			},
+			{
+				"id": 1688240,
+				"template": 358,
+				"quantity": 1,
+				"time": 1701552178
+			},
+			{
+				"id": 1688278,
+				"template": 326,
+				"quantity": 1,
+				"time": 1701552288
+			},
+			{
+				"id": 1687954,
+				"template": 399,
+				"quantity": 1,
+				"time": 1701550296
+			},
+			{
+				"id": 1690083,
+				"template": 344,
+				"quantity": 1,
+				"time": 1701558483
+			},
+			{
+				"id": 2491182,
+				"template": 504,
+				"quantity": 1,
+				"time": 1776918441
+			},
+			{
+				"id": 2556683,
+				"template": 522,
+				"quantity": 1,
+				"time": 1786798781
+			},
+			{
+				"id": 1712976,
+				"template": 423,
+				"quantity": 1,
+				"time": 1701970198
+			},
+			{
+				"id": 1687957,
+				"template": 392,
+				"quantity": 1,
+				"time": 1701550301
+			},
+			{
+				"id": 1690340,
+				"template": 402,
+				"quantity": 1,
+				"time": 1701559832
+			},
+			{
+				"id": 1690809,
+				"template": 353,
+				"quantity": 1,
+				"time": 1701562407
+			},
+			{
+				"id": 1687965,
+				"template": 335,
+				"quantity": 1,
+				"time": 1701550303
+			},
+			{
+				"id": 1690097,
+				"template": 343,
+				"quantity": 1,
+				"time": 1701558517
+			},
+			{
+				"id": 1691049,
+				"template": 327,
+				"quantity": 1,
+				"time": 1701563432
+			},
+			{
+				"id": 1698426,
+				"template": 403,
+				"quantity": 1,
+				"time": 1701624755
+			},
+			{
+				"id": 1688326,
+				"template": 397,
+				"quantity": 1,
+				"time": 1701552390
+			},
+			{
+				"id": 1690823,
+				"template": 341,
+				"quantity": 1,
+				"time": 1701562516
+			},
+			{
+				"id": 1690902,
+				"template": 355,
+				"quantity": 1,
+				"time": 1701562852
+			},
+			{
+				"id": 1695150,
+				"template": 331,
+				"quantity": 1,
+				"time": 1701600215
+			},
+			{
+				"id": 1717058,
+				"template": 422,
+				"quantity": 1,
+				"time": 1702136368
+			},
+			{
+				"id": 1687912,
+				"template": 350,
+				"quantity": 1,
+				"time": 1701550259
+			},
+			{
+				"id": 1690959,
+				"template": 336,
+				"quantity": 1,
+				"time": 1701563079
+			},
+			{
+				"id": 1690416,
+				"template": 334,
+				"quantity": 1,
+				"time": 1701560278
+			},
+			{
+				"id": 1695155,
+				"template": 347,
+				"quantity": 1,
+				"time": 1701600249
+			}
+		],
+		"fight_packs": [
+			{
+				"id": 2570307,
+				"template": 265,
+				"quantity": 4,
+				"time": 1788041456
+			}
+		],
+		"tournament": { "registered": true, "current": null },
+		"candidacies": [],
+		"team_invitations": [],
+		"pomps": [
+			{ "id": 1455341, "template": 240, "quantity": 1, "time": 1455341 },
+			{ "id": 873592, "template": 126, "quantity": 1, "time": 873592 },
+			{ "id": 873593, "template": 125, "quantity": 1, "time": 873593 },
+			{ "id": 873594, "template": 123, "quantity": 1, "time": 873594 },
+			{
+				"id": 873595,
+				"template": 124,
+				"quantity": 5,
+				"time": 1735231795
+			},
+			{ "id": 1455342, "template": 241, "quantity": 1, "time": 1455342 },
+			{ "id": 1455343, "template": 242, "quantity": 1, "time": 1455343 }
+		],
+		"rewards": [
+			{ "trophy": 52, "habs": 100 },
+			{ "trophy": 1, "habs": 100 },
+			{ "trophy": 22, "habs": 2500 },
+			{ "trophy": 24, "habs": 400 },
+			{ "trophy": 77, "habs": 400 },
+			{ "trophy": 35, "habs": 2500 },
+			{ "trophy": 9, "habs": 100 },
+			{ "trophy": 41, "habs": 2500 },
+			{ "trophy": 36, "habs": 10000 },
+			{ "trophy": 2, "habs": 2500 },
+			{ "trophy": 37, "habs": 40000 },
+			{ "trophy": 67, "habs": 100 },
+			{ "trophy": 53, "habs": 400 },
+			{ "trophy": 64, "habs": 10000 },
+			{ "trophy": 21, "habs": 2500 },
+			{ "trophy": 25, "habs": 10000 },
+			{ "trophy": 46, "habs": 2500 },
+			{ "trophy": 88, "habs": 2500 },
+			{ "trophy": 45, "habs": 400 },
+			{ "trophy": 26, "habs": 40000 },
+			{ "trophy": 48, "habs": 400 },
+			{ "trophy": 10, "habs": 400 },
+			{ "trophy": 47, "habs": 100 },
+			{ "trophy": 23, "habs": 10000 },
+			{ "trophy": 54, "habs": 2500 },
+			{ "trophy": 83, "habs": 2500 },
+			{ "trophy": 80, "habs": 2500 },
+			{ "trophy": 6, "habs": 2500 },
+			{ "trophy": 3, "habs": 10000 },
+			{ "trophy": 38, "habs": 100 },
+			{ "trophy": 93, "habs": 40000 },
+			{ "trophy": 27, "habs": 250000 },
+			{ "trophy": 68, "habs": 2500 },
+			{ "trophy": 84, "habs": 10000 },
+			{ "trophy": 33, "habs": 400 },
+			{ "trophy": 89, "habs": 40000 },
+			{ "trophy": 65, "habs": 10000 },
+			{ "trophy": 56, "habs": 2500 },
+			{ "trophy": 75, "habs": 2500 },
+			{ "trophy": 18, "habs": 2500 },
+			{ "trophy": 11, "habs": 2500 },
+			{ "trophy": 76, "habs": 10000 },
+			{ "trophy": 49, "habs": 2500 },
+			{ "trophy": 69, "habs": 40000 },
+			{ "trophy": 116, "habs": 40000 },
+			{ "trophy": 125, "habs": 400 },
+			{ "trophy": 134, "habs": 400 },
+			{ "trophy": 126, "habs": 2500 },
+			{ "trophy": 42, "habs": 2500 },
+			{ "trophy": 101, "habs": 40000 },
+			{ "trophy": 71, "habs": 2500 },
+			{ "trophy": 131, "habs": 2500 },
+			{ "trophy": 142, "habs": 10000 },
+			{ "trophy": 135, "habs": 2500 },
+			{ "trophy": 85, "habs": 10000 },
+			{ "trophy": 119, "habs": 40000 },
+			{ "trophy": 7, "habs": 10000 },
+			{ "trophy": 34, "habs": 2500 },
+			{ "trophy": 117, "habs": 160000 },
+			{ "trophy": 130, "habs": 2500 },
+			{ "trophy": 28, "habs": 10000 },
+			{ "trophy": 50, "habs": 10000 },
+			{ "trophy": 127, "habs": 40000 },
+			{ "trophy": 55, "habs": 250000 },
+			{ "trophy": 94, "habs": 2500 },
+			{ "trophy": 95, "habs": 10000 },
+			{ "trophy": 120, "habs": 160000 },
+			{ "trophy": 96, "habs": 40000 },
+			{ "trophy": 78, "habs": 2500 },
+			{ "trophy": 139, "habs": 10000 },
+			{ "trophy": 98, "habs": 40000 },
+			{ "trophy": 19, "habs": 40000 },
+			{ "trophy": 132, "habs": 10000 },
+			{ "trophy": 136, "habs": 10000 },
+			{ "trophy": 72, "habs": 10000 },
+			{ "trophy": 4, "habs": 40000 },
+			{ "trophy": 87, "habs": 250000 },
+			{ "trophy": 12, "habs": 40000 },
+			{ "trophy": 13, "habs": 40000 },
+			{ "trophy": 51, "habs": 40000 },
+			{ "trophy": 99, "habs": 90000 },
+			{ "trophy": 143, "habs": 90000 },
+			{ "trophy": 66, "habs": 40000 },
+			{ "trophy": 60, "habs": 10000 },
+			{ "trophy": 97, "habs": 90000 },
+			{ "trophy": 128, "habs": 90000 },
+			{ "trophy": 90, "habs": 40000 },
+			{ "trophy": 118, "habs": 360000 },
+			{ "trophy": 61, "habs": 40000 },
+			{ "trophy": 20, "habs": 250000 },
+			{ "trophy": 82, "habs": 10000 },
+			{ "trophy": 14, "habs": 250000 },
+			{ "trophy": 43, "habs": 250000 },
+			{ "trophy": 29, "habs": 40000 },
+			{ "trophy": 107, "habs": 40000 },
+			{ "trophy": 62, "habs": 160000 },
+			{ "trophy": 137, "habs": 40000 },
+			{ "trophy": 70, "habs": 10000 },
+			{ "trophy": 30, "habs": 250000 },
+			{ "trophy": 8, "habs": 250000 },
+			{ "trophy": 129, "habs": 90000 },
+			{ "trophy": 39, "habs": 40000 },
+			{ "trophy": 74, "habs": 40000 },
+			{ "trophy": 86, "habs": 40000 },
+			{ "trophy": 58, "habs": 40000 },
+			{ "trophy": 121, "habs": 360000 },
+			{ "trophy": 144, "habs": 250000 },
+			{ "trophy": 133, "habs": 250000 },
+			{ "trophy": 31, "habs": 1000000 },
+			{ "trophy": 57, "habs": 10000 },
+			{ "trophy": 165, "habs": 160000 },
+			{ "trophy": 164, "habs": 490000 },
+			{ "trophy": 40, "habs": 810000 },
+			{ "trophy": 152, "habs": 2500 },
+			{ "trophy": 153, "habs": 40000 },
+			{ "trophy": 5, "habs": 1000000 },
+			{ "trophy": 92, "habs": 90000 },
+			{ "trophy": 113, "habs": 40000 },
+			{ "trophy": 73, "habs": 40000 },
+			{ "trophy": 154, "habs": 490000 },
+			{ "trophy": 161, "habs": 40000 },
+			{ "trophy": 114, "habs": 1000000 },
+			{ "trophy": 32, "habs": 2250000 },
+			{ "trophy": 102, "habs": 40000 },
+			{ "trophy": 115, "habs": 4000000 },
+			{ "trophy": 138, "habs": 250000 },
+			{ "trophy": 59, "habs": 160000 },
+			{ "trophy": 108, "habs": 250000 },
+			{ "trophy": 162, "habs": 160000 },
+			{ "trophy": 141, "habs": 1000000 },
+			{ "trophy": 140, "habs": 250000 },
+			{ "trophy": 81, "habs": 10000 },
+			{ "trophy": 44, "habs": 160000 },
+			{ "trophy": 156, "habs": 40000 },
+			{ "trophy": 15, "habs": 1000000 },
+			{ "trophy": 79, "habs": 250000 },
+			{ "trophy": 157, "habs": 250000 },
+			{ "trophy": 163, "habs": 640000 },
+			{ "trophy": 109, "habs": 1000000 },
+			{ "trophy": 103, "habs": 250000 },
+			{ "trophy": 110, "habs": 4000000 },
+			{ "trophy": 104, "habs": 1000000 },
+			{ "trophy": 105, "habs": 4000000 },
+			{ "trophy": 146, "habs": 25000000 },
+			{ "trophy": 106, "habs": 25000000 },
+			{ "trophy": 150, "habs": 250000 },
+			{ "trophy": 155, "habs": 2560000 },
+			{ "trophy": 16, "habs": 4000000 },
+			{ "trophy": 252, "habs": 10000 },
+			{ "trophy": 235, "habs": 1000000 },
+			{ "trophy": 236, "habs": 4000000 },
+			{ "trophy": 281, "habs": 10000 },
+			{ "trophy": 172, "habs": 10000 },
+			{ "trophy": 213, "habs": 90000 },
+			{ "trophy": 300, "habs": 40000 },
+			{ "trophy": 294, "habs": 160000 },
+			{ "trophy": 292, "habs": 10000 },
+			{ "trophy": 257, "habs": 10000 },
+			{ "trophy": 258, "habs": 40000 },
+			{ "trophy": 282, "habs": 40000 },
+			{ "trophy": 293, "habs": 10000 },
+			{ "trophy": 302, "habs": 10000 },
+			{ "trophy": 307, "habs": 40000 },
+			{ "trophy": 205, "habs": 1000000 },
+			{ "trophy": 308, "habs": 160000 },
+			{ "trophy": 185, "habs": 40000 },
+			{ "trophy": 214, "habs": 10000 },
+			{ "trophy": 283, "habs": 360000 },
+			{ "trophy": 179, "habs": 10000 },
+			{ "trophy": 219, "habs": 10000 },
+			{ "trophy": 224, "habs": 10000 },
+			{ "trophy": 295, "habs": 490000 },
+			{ "trophy": 169, "habs": 40000 },
+			{ "trophy": 178, "habs": 250000 },
+			{ "trophy": 261, "habs": 2500 },
+			{ "trophy": 303, "habs": 40000 },
+			{ "trophy": 180, "habs": 90000 },
+			{ "trophy": 304, "habs": 250000 },
+			{ "trophy": 290, "habs": 160000 },
+			{ "trophy": 284, "habs": 1440000 },
+			{ "trophy": 225, "habs": 40000 },
+			{ "trophy": 220, "habs": 40000 },
+			{ "trophy": 184, "habs": 640000 },
+			{ "trophy": 215, "habs": 40000 },
+			{ "trophy": 265, "habs": 10000 },
+			{ "trophy": 259, "habs": 250000 },
+			{ "trophy": 250, "habs": 490000 },
+			{ "trophy": 212, "habs": 40000 },
+			{ "trophy": 312, "habs": 640000 },
+			{ "trophy": 241, "habs": 250000 },
+			{ "trophy": 181, "habs": 250000 },
+			{ "trophy": 190, "habs": 90000 },
+			{ "trophy": 319, "habs": 3240000 },
+			{ "trophy": 242, "habs": 640000 },
+			{ "trophy": 221, "habs": 90000 },
+			{ "trophy": 226, "habs": 90000 },
+			{ "trophy": 297, "habs": 2500 },
+			{ "trophy": 168, "habs": 40000 },
+			{ "trophy": 298, "habs": 10000 },
+			{ "trophy": 299, "habs": 40000 },
+			{ "trophy": 200, "habs": 2500 },
+			{ "trophy": 289, "habs": 40000 },
+			{ "trophy": 240, "habs": 40000 },
+			{ "trophy": 262, "habs": 40000 },
+			{ "trophy": 175, "habs": 2500 },
+			{ "trophy": 198, "habs": 250000 },
+			{ "trophy": 199, "habs": 2500 },
+			{ "trophy": 182, "habs": 160000 },
+			{ "trophy": 301, "habs": 10000 },
+			{ "trophy": 201, "habs": 10000 },
+			{ "trophy": 170, "habs": 40000 },
+			{ "trophy": 263, "habs": 90000 },
+			{ "trophy": 196, "habs": 90000 },
+			{ "trophy": 246, "habs": 250000 },
+			{ "trophy": 233, "habs": 10000 },
+			{ "trophy": 247, "habs": 1000000 },
+			{ "trophy": 229, "habs": 90000 },
+			{ "trophy": 276, "habs": 10000 },
+			{ "trophy": 286, "habs": 90000 },
+			{ "trophy": 216, "habs": 90000 },
+			{ "trophy": 309, "habs": 10000 },
+			{ "trophy": 206, "habs": 160000 },
+			{ "trophy": 158, "habs": 640000 },
+			{ "trophy": 209, "habs": 40000 },
+			{ "trophy": 288, "habs": 40000 },
+			{ "trophy": 202, "habs": 40000 },
+			{ "trophy": 203, "habs": 250000 },
+			{ "trophy": 249, "habs": 1000000 },
+			{ "trophy": 318, "habs": 10000 },
+			{ "trophy": 244, "habs": 250000 },
+			{ "trophy": 183, "habs": 160000 },
+			{ "trophy": 277, "habs": 2500 },
+			{ "trophy": 278, "habs": 10000 },
+			{ "trophy": 310, "habs": 2890000 },
+			{ "trophy": 314, "habs": 250000 },
+			{ "trophy": 230, "habs": 250000 },
+			{ "trophy": 273, "habs": 40000 },
+			{ "trophy": 274, "habs": 90000 },
+			{ "trophy": 275, "habs": 250000 },
+			{ "trophy": 266, "habs": 40000 },
+			{ "trophy": 306, "habs": 490000 },
+			{ "trophy": 171, "habs": 160000 },
+			{ "trophy": 253, "habs": 160000 },
+			{ "trophy": 245, "habs": 490000 },
+			{ "trophy": 232, "habs": 360000 },
+			{ "trophy": 187, "habs": 250000 },
+			{ "trophy": 174, "habs": 40000 },
+			{ "trophy": 189, "habs": 360000 },
+			{ "trophy": 176, "habs": 10000 },
+			{ "trophy": 251, "habs": 40000 },
+			{ "trophy": 234, "habs": 2500 },
+			{ "trophy": 279, "habs": 40000 },
+			{ "trophy": 280, "habs": 90000 },
+			{ "trophy": 264, "habs": 40000 },
+			{ "trophy": 255, "habs": 160000 },
+			{ "trophy": 256, "habs": 360000 },
+			{ "trophy": 208, "habs": 40000 },
+			{ "trophy": 227, "habs": 160000 },
+			{ "trophy": 217, "habs": 160000 },
+			{ "trophy": 317, "habs": 250000 },
+			{ "trophy": 228, "habs": 490000 },
+			{ "trophy": 211, "habs": 640000 },
+			{ "trophy": 159, "habs": 2250000 },
+			{ "trophy": 218, "habs": 490000 },
+			{ "trophy": 91, "habs": 250000 },
+			{ "trophy": 296, "habs": 1690000 },
+			{ "trophy": 243, "habs": 4000000 },
+			{ "trophy": 267, "habs": 250000 },
+			{ "trophy": 191, "habs": 640000 },
+			{ "trophy": 197, "habs": 90000 },
+			{ "trophy": 222, "habs": 160000 },
+			{ "trophy": 287, "habs": 90000 },
+			{ "trophy": 313, "habs": 1060900 },
+			{ "trophy": 188, "habs": 810000 },
+			{ "trophy": 210, "habs": 640000 },
+			{ "trophy": 291, "habs": 160000 },
+			{ "trophy": 316, "habs": 90000 },
+			{ "trophy": 231, "habs": 360000 },
+			{ "trophy": 151, "habs": 1210000 },
+			{ "trophy": 160, "habs": 16000000 },
+			{ "trophy": 254, "habs": 250000 },
+			{ "trophy": 268, "habs": 1210000 },
+			{ "trophy": 260, "habs": 810000 },
+			{ "trophy": 195, "habs": 90000 },
+			{ "trophy": 334, "habs": 250000 },
+			{ "trophy": 332, "habs": 40000 },
+			{ "trophy": 335, "habs": 810000 },
+			{ "trophy": 223, "habs": 490000 },
+			{ "trophy": 333, "habs": 490000 },
+			{ "trophy": 336, "habs": 90000 },
+			{ "trophy": 344, "habs": 360000 },
+			{ "trophy": 326, "habs": 10000 },
+			{ "trophy": 327, "habs": 40000 },
+			{ "trophy": 328, "habs": 160000 },
+			{ "trophy": 337, "habs": 1690000 },
+			{ "trophy": 248, "habs": 4000000 },
+			{ "trophy": 347, "habs": 250000 },
+			{ "trophy": 311, "habs": 160000 },
+			{ "trophy": 330, "habs": 640000 },
+			{ "trophy": 329, "habs": 360000 },
+			{ "trophy": 315, "habs": 160000 },
+			{ "trophy": 368, "habs": 10000 },
+			{ "trophy": 406, "habs": 100 },
+			{ "trophy": 414, "habs": 2500 },
+			{ "trophy": 415, "habs": 2500 },
+			{ "trophy": 385, "habs": 2500 },
+			{ "trophy": 387, "habs": 2500 },
+			{ "trophy": 389, "habs": 10000 },
+			{ "trophy": 364, "habs": 10000 },
+			{ "trophy": 369, "habs": 40000 },
+			{ "trophy": 388, "habs": 10000 }
+		]
+	},
+	"farmers": 28,
+	"message": null,
+	"unread": 1,
+	"notifications": [
+		{
+			"id": 89360186,
+			"type": 15,
+			"parameters": ["41108", "53481931", "Jace", "0"],
+			"date": 1788045659,
+			"read": false
+		},
+		{
+			"id": 89359522,
+			"type": 44,
+			"parameters": ["53481479", "1", "Saphyre", "9"],
+			"date": 1788043403,
+			"read": true
+		},
+		{
+			"id": 89359044,
+			"type": 45,
+			"parameters": ["53480968", "-1", "Astera", "10"],
+			"date": 1788040788,
+			"read": true
+		},
+		{
+			"id": 89359002,
+			"type": 2,
+			"parameters": ["38241", "53480938", "Taill\u00e9PourGinette", "1"],
+			"date": 1788040275,
+			"read": true
+		},
+		{
+			"id": 89358863,
+			"type": 46,
+			"parameters": ["53480883", "0", "Astera", "8"],
+			"date": 1788040041,
+			"read": true
+		},
+		{
+			"id": 89358129,
+			"type": 43,
+			"parameters": ["53480697", "-1", "Astera", "9"],
+			"date": 1788038076,
+			"read": true
+		},
+		{
+			"id": 89357756,
+			"type": 44,
+			"parameters": ["53480494", "1", "Astera", "9"],
+			"date": 1788035118,
+			"read": true
+		},
+		{
+			"id": 89357215,
+			"type": 45,
+			"parameters": ["53480295", "-1", "Astera", "9"],
+			"date": 1788032490,
+			"read": true
+		},
+		{
+			"id": 89356742,
+			"type": 44,
+			"parameters": ["53480234", "1", "Astera", "9"],
+			"date": 1788031501,
+			"read": true
+		},
+		{
+			"id": 89356736,
+			"type": 11,
+			"parameters": ["388"],
+			"date": 1788031084,
+			"read": true
+		},
+		{
+			"id": 89356160,
+			"type": 45,
+			"parameters": ["53480194", "-1", "Astera", "9"],
+			"date": 1788030869,
+			"read": true
+		},
+		{
+			"id": 89355090,
+			"type": 45,
+			"parameters": ["53479931", "-1", "Astera", "9"],
+			"date": 1788029162,
+			"read": true
+		},
+		{
+			"id": 89355016,
+			"type": 45,
+			"parameters": ["53479885", "-1", "Astera", "9"],
+			"date": 1788028412,
+			"read": true
+		},
+		{
+			"id": 89353670,
+			"type": 45,
+			"parameters": ["53478929", "1", "Saphyre", "9"],
+			"date": 1788025887,
+			"read": true
+		},
+		{
+			"id": 89351973,
+			"type": 15,
+			"parameters": ["100982", "53477773", "AntiSlash", "-1"],
+			"date": 1788021842,
+			"read": true
+		},
+		{
+			"id": 89351971,
+			"type": 15,
+			"parameters": ["100982", "53477772", "AntiSlash", "1"],
+			"date": 1788021834,
+			"read": true
+		},
+		{
+			"id": 89351970,
+			"type": 15,
+			"parameters": ["100982", "53477771", "AntiSlash", "-1"],
+			"date": 1788021829,
+			"read": true
+		},
+		{
+			"id": 89351967,
+			"type": 15,
+			"parameters": ["100982", "53477770", "AntiSlash", "1"],
+			"date": 1788021820,
+			"read": true
+		},
+		{
+			"id": 89351966,
+			"type": 15,
+			"parameters": ["100982", "53477768", "AntiSlash", "1"],
+			"date": 1788021818,
+			"read": true
+		},
+		{
+			"id": 89351542,
+			"type": 45,
+			"parameters": ["53477389", "-1", "Saphyre", "9"],
+			"date": 1788019593,
+			"read": true
+		}
+	],
+	"conversations": [
+		{
+			"id": 32094,
+			"last_message": "Je pense qu'il manque les fichiers signature, mais je sais plus comment je les gerais avant",
+			"last_farmer_id": 76142,
+			"last_farmer_name": "Nyaleph",
+			"last_date": 1787653385,
+			"farmers": [
+				{
+					"id": 76142,
+					"name": "Nyaleph",
+					"avatar_changed": 1729583798,
+					"color": "contributor"
+				},
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				}
+			],
+			"read": true
+		},
+		{
+			"id": 37309,
+			"last_message": "Je vais regarder merci",
+			"last_farmer_id": 19070,
+			"last_farmer_name": "Amal",
+			"last_date": 1787644607,
+			"farmers": [
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				},
+				{
+					"id": 60894,
+					"name": "Bux42",
+					"avatar_changed": 1767130009,
+					"color": ""
+				}
+			],
+			"read": true
+		},
+		{
+			"id": 36963,
+			"last_message": "OK bon courage :)",
+			"last_farmer_id": 71485,
+			"last_farmer_name": "BrocoliCosmique",
+			"last_date": 1771528184,
+			"farmers": [
+				{
+					"id": 71485,
+					"name": "BrocoliCosmique",
+					"avatar_changed": 1760820252,
+					"color": "contributor"
+				},
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				}
+			],
+			"read": true
+		},
+		{
+			"id": 31204,
+			"last_message": "D'accord, dommage :/ si tu reviens activement sur le jeu, tu sera toujours le bienvenu :)",
+			"last_farmer_id": 66566,
+			"last_farmer_name": "AppleTree",
+			"last_date": 1750671357,
+			"farmers": [
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				},
+				{
+					"id": 66566,
+					"name": "AppleTree",
+					"avatar_changed": 1743675220,
+					"color": ""
+				}
+			],
+			"read": true
+		},
+		{
+			"id": 35524,
+			"last_message": "stp tu peux me dire impr\u00e9visible et moi je te dit marionnettiste et Bourrasque",
+			"last_farmer_id": 97006,
+			"last_farmer_name": "Legumatore",
+			"last_date": 1733775484,
+			"farmers": [
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				},
+				{
+					"id": 97006,
+					"name": "Legumatore",
+					"avatar_changed": 1787478115,
+					"color": ""
+				}
+			],
+			"read": true
+		},
+		{
+			"id": 31258,
+			"last_message": "Hi, I'm organizing a BR evening on Thurdsay 18 July at 9pm UTC+2. The goal is to get together to sign up for the Battle Royale in the garden and do lots of BR! Will you be there? If so, don't forget to save some fights for the occasion!",
+			"last_farmer_id": 76604,
+			"last_farmer_name": "nytope",
+			"last_date": 1720728289,
+			"farmers": [
+				{
+					"id": 76604,
+					"name": "nytope",
+					"avatar_changed": 1669397670,
+					"color": "contributor"
+				},
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				}
+			],
+			"read": true
+		},
+		{
+			"id": 34223,
+			"last_message": "Okok merci pour la r\u00e9ponse",
+			"last_farmer_id": 58615,
+			"last_farmer_name": "Dynamex",
+			"last_date": 1701534527,
+			"farmers": [
+				{
+					"id": 58615,
+					"name": "Dynamex",
+					"avatar_changed": 1699959699,
+					"color": ""
+				},
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				}
+			],
+			"read": true
+		},
+		{
+			"id": 34095,
+			"last_message": "c'est pas 40 ^^\"",
+			"last_farmer_id": 66407,
+			"last_farmer_name": "Magestik25",
+			"last_date": 1701438907,
+			"farmers": [
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				},
+				{
+					"id": 66407,
+					"name": "Magestik25",
+					"avatar_changed": 1589709428,
+					"color": ""
+				}
+			],
+			"read": true
+		},
+		{
+			"id": 34099,
+			"last_message": "pardon petite coquille `Array<Cell> sortedCell= arraySort(mapValues(map), function(a,b){\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0return map[a]-map[b]\n\u00a0 \u00a0 \u00a0 \u00a0 });`",
+			"last_farmer_id": 94768,
+			"last_farmer_name": "KavaliovNinies",
+			"last_date": 1696970846,
+			"farmers": [
+				{
+					"id": 94768,
+					"name": "KavaliovNinies",
+					"avatar_changed": 0,
+					"color": ""
+				},
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				}
+			],
+			"read": true
+		},
+		{
+			"id": 34097,
+			"last_message": "Oui et j\u2019aurais mis une difficult\u00e9 un poil plus \u00e9lev\u00e9e ^^",
+			"last_farmer_id": 76772,
+			"last_farmer_name": "Kraspen",
+			"last_date": 1696610295,
+			"farmers": [
+				{
+					"id": 76772,
+					"name": "Kraspen",
+					"avatar_changed": 1769891733,
+					"color": "referent"
+				},
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				}
+			],
+			"read": true
+		},
+		{
+			"id": 32244,
+			"last_message": "Haha, si \u00e7a peut te motiver, c'est bien :)",
+			"last_farmer_id": 19070,
+			"last_farmer_name": "Amal",
+			"last_date": 1656269826,
+			"farmers": [
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				},
+				{
+					"id": 78250,
+					"name": "Gandhictature",
+					"avatar_changed": 1753470973,
+					"color": ""
+				}
+			],
+			"read": true
+		},
+		{
+			"id": 32269,
+			"last_message": "Ah ouai nice !\nJe vais tester avec http alors :)",
+			"last_farmer_id": 19070,
+			"last_farmer_name": "Amal",
+			"last_date": 1656160718,
+			"farmers": [
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				},
+				{
+					"id": 65847,
+					"name": "BougeLeGrosOrteil",
+					"avatar_changed": 1787608851,
+					"color": "contributor"
+				}
+			],
+			"read": true
+		},
+		{
+			"id": 32217,
+			"last_message": "dac merci a toi je ves voir sa et si je trouve pas je demanderais directement dans le tchat",
+			"last_farmer_id": 84399,
+			"last_farmer_name": "gusia",
+			"last_date": 1655043193,
+			"farmers": [
+				{
+					"id": 84399,
+					"name": "gusia",
+					"avatar_changed": 0,
+					"color": ""
+				},
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				}
+			],
+			"read": true
+		},
+		{
+			"id": 31130,
+			"last_message": "Il a fait beaucoup de chirurgie pour passer d'un rabot bleu \u00e0 \u00e7a alors",
+			"last_farmer_id": 19070,
+			"last_farmer_name": "Amal",
+			"last_date": 1641496366,
+			"farmers": [
+				{
+					"id": 34434,
+					"name": "fantonico",
+					"avatar_changed": 1782419512,
+					"color": "contributor"
+				},
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				}
+			],
+			"read": true
+		},
+		{
+			"id": 31179,
+			"last_message": "Merci ! GG \u00e9galement, c'est serr\u00e9 quand m\u00eame ^^",
+			"last_farmer_id": 19070,
+			"last_farmer_name": "Amal",
+			"last_date": 1640885261,
+			"farmers": [
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				},
+				{
+					"id": 28258,
+					"name": "baali",
+					"avatar_changed": 1639576321,
+					"color": ""
+				}
+			],
+			"read": true
+		},
+		{
+			"id": 10938,
+			"last_message": "Surtout quand j'ai 11k erreurs x)",
+			"last_farmer_id": 19070,
+			"last_farmer_name": "Amal",
+			"last_date": 1617486366,
+			"farmers": [
+				{
+					"id": 1,
+					"name": "Pilow",
+					"avatar_changed": 1730708991,
+					"color": "admin"
+				},
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				}
+			],
+			"read": true
+		},
+		{
+			"id": 17914,
+			"last_message": "je ferais ce soir\u00a0\ud83d\ude34",
+			"last_farmer_id": 19070,
+			"last_farmer_name": "Amal",
+			"last_date": 1607992359,
+			"farmers": [
+				{
+					"id": 50023,
+					"name": "Oimat",
+					"avatar_changed": 1488636939,
+					"color": ""
+				},
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				}
+			],
+			"read": true
+		},
+		{
+			"id": 23163,
+			"last_message": "oh je vois ^_^",
+			"last_farmer_id": 67927,
+			"last_farmer_name": "Summit",
+			"last_date": 1574537897,
+			"farmers": [
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				},
+				{
+					"id": 67927,
+					"name": "Summit",
+					"avatar_changed": 1572718295,
+					"color": ""
+				}
+			],
+			"read": true
+		},
+		{
+			"id": 20479,
+			"last_message": "Bonjour Amal, c'est le responsable de temakisushi, je t'envoie ce mp pour m'excuser de son comportement, n'h\u00e9site pas \u00e0 me dire si il t'envoie de nouveaux mp. Encore d\u00e9sol\u00e9, j'esp\u00e8re qu'il retiendra la le\u00e7on.",
+			"last_farmer_id": 55587,
+			"last_farmer_name": "",
+			"last_date": 1521564572,
+			"farmers": [
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				}
+			],
+			"read": true
+		},
+		{
+			"id": 20381,
+			"last_message": "veux rejoindre ton \u00e9quipee\nSTPP",
+			"last_farmer_id": 45474,
+			"last_farmer_name": "Quelquun",
+			"last_date": 1520448666,
+			"farmers": [
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				},
+				{
+					"id": 45474,
+					"name": "Quelquun",
+					"avatar_changed": 1521141213,
+					"color": ""
+				}
+			],
+			"read": true
+		},
+		{
+			"id": 20237,
+			"last_message": "la derni\u00e8re fois y avais yokai qui demander \u00e0 rejoindre ton \u00e9quipe et pourquoi tu l'a pas accept\u00e9 ?",
+			"last_farmer_id": 53392,
+			"last_farmer_name": "temakisushi",
+			"last_date": 1520080625,
+			"farmers": [
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				},
+				{
+					"id": 53392,
+					"name": "temakisushi",
+					"avatar_changed": 1730745710,
+					"color": "contributor"
+				}
+			],
+			"read": true
+		},
+		{
+			"id": 19403,
+			"last_message": "bonjour, je cherche une \u00e9quipe j'aimerais bien rejoindre la votre, j'ai d\u00e9j\u00e0 demand\u00e9 \u00e0 d'autres joueurs, je postulerais d\u00e9s que vous me r\u00e9pondrez, merci !",
+			"last_farmer_id": 54222,
+			"last_farmer_name": "",
+			"last_date": 1507276865,
+			"farmers": [
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				}
+			],
+			"read": true
+		},
+		{
+			"id": 18641,
+			"last_message": "Mec D\u00e9sol\u00e9 pour les enchainement de combat , il n'y avais que toi dans mon potager :'(",
+			"last_farmer_id": 51225,
+			"last_farmer_name": "Traual",
+			"last_date": 1503781212,
+			"farmers": [
+				{
+					"id": 51225,
+					"name": "Traual",
+					"avatar_changed": 1744138942,
+					"color": ""
+				},
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				}
+			],
+			"read": true
+		},
+		{
+			"id": 18691,
+			"last_message": "ty",
+			"last_farmer_id": 19070,
+			"last_farmer_name": "Amal",
+			"last_date": 1500670392,
+			"farmers": [
+				{
+					"id": 50168,
+					"name": "tagadalone",
+					"avatar_changed": 1483976085,
+					"color": ""
+				},
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				}
+			],
+			"read": true
+		},
+		{
+			"id": 18686,
+			"last_message": "C'est le tournoi de la folie ^^",
+			"last_farmer_id": 19070,
+			"last_farmer_name": "Amal",
+			"last_date": 1500659684,
+			"farmers": [
+				{
+					"id": 19070,
+					"name": "Amal",
+					"avatar_changed": 1699290146,
+					"color": "contributor"
+				},
+				{
+					"id": 42329,
+					"name": "gelbaz",
+					"avatar_changed": 1497721791,
+					"color": ""
+				}
+			],
+			"read": true
+		}
+	],
+	"chats": [
+		{ "id": 30525, "read": null, "notifications": true },
+		{ "id": 1, "read": false, "notifications": true },
+		{ "id": 2, "read": false, "notifications": true },
+		{ "id": 3, "read": false, "notifications": true },
+		{ "id": 5, "read": false, "notifications": true },
+		{ "id": 4, "read": true, "notifications": true }
+	],
+	"accounts": [
+		{
+			"id": 19070,
+			"name": "Amal",
+			"avatar_changed": 1699290146,
+			"connected": true
+		}
+	]
+}

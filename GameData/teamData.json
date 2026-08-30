@@ -1,0 +1,767 @@
+{
+	"id": 1,
+	"name": "DoT",
+	"level": 100,
+	"xp": 42259597,
+	"up_xp": 999999999,
+	"down_xp": 5384680,
+	"talent": 3407,
+	"victories": 7218,
+	"fights": [
+		{
+			"id": 40548013,
+			"leeks1": [1717, 1034, 678, 13845, 1549, 8986],
+			"leeks2": [90, 192, 132, 1, 48, 95],
+			"winner": 1,
+			"status": 2,
+			"date": 1689674282,
+			"context": 2,
+			"type": 2,
+			"farmer1": -1,
+			"farmer2": -1,
+			"team1": 81,
+			"team2": 1,
+			"composition1": 7085,
+			"composition2": 19603,
+			"result": "defeat",
+			"team1_name": "Ten more battles",
+			"team2_name": "DoT"
+		},
+		{
+			"id": 40547949,
+			"leeks1": [1717, 1034, 678, 13845, 1549, 8986],
+			"leeks2": [90, 192, 132, 1, 48, 95],
+			"winner": 0,
+			"status": 2,
+			"date": 1689673948,
+			"context": 2,
+			"type": 2,
+			"farmer1": -1,
+			"farmer2": -1,
+			"team1": 81,
+			"team2": 1,
+			"composition1": 7085,
+			"composition2": 19603,
+			"result": "draw",
+			"team1_name": "Ten more battles",
+			"team2_name": "DoT"
+		},
+		{
+			"id": 40547899,
+			"leeks1": [1717, 1034, 678, 13845, 1549, 8986],
+			"leeks2": [90, 192, 132, 1, 48, 95],
+			"winner": 2,
+			"status": 2,
+			"date": 1689673562,
+			"context": 2,
+			"type": 2,
+			"farmer1": -1,
+			"farmer2": -1,
+			"team1": 81,
+			"team2": 1,
+			"composition1": 7085,
+			"composition2": 19603,
+			"result": "win",
+			"team1_name": "Ten more battles",
+			"team2_name": "DoT"
+		},
+		{
+			"id": 40547846,
+			"leeks1": [11942, 881, 22825, 26338, 23362, 599],
+			"leeks2": [90, 192, 132, 1, 48, 95],
+			"winner": 1,
+			"status": 2,
+			"date": 1689673299,
+			"context": 2,
+			"type": 2,
+			"farmer1": -1,
+			"farmer2": -1,
+			"team1": 81,
+			"team2": 1,
+			"composition1": 11012,
+			"composition2": 19603,
+			"result": "defeat",
+			"team1_name": "Ten more battles",
+			"team2_name": "DoT"
+		},
+		{
+			"id": 40547827,
+			"leeks1": [11942, 881, 22825, 26338, 23362, 599],
+			"leeks2": [90, 192, 132, 1, 48, 95],
+			"winner": 1,
+			"status": 2,
+			"date": 1689673166,
+			"context": 2,
+			"type": 2,
+			"farmer1": -1,
+			"farmer2": -1,
+			"team1": 81,
+			"team2": 1,
+			"composition1": 11012,
+			"composition2": 19603,
+			"result": "defeat",
+			"team1_name": "Ten more battles",
+			"team2_name": "DoT"
+		},
+		{
+			"id": 40547787,
+			"leeks1": [11942, 881, 22825, 26338, 23362, 599],
+			"leeks2": [90, 192, 132, 1, 48, 95],
+			"winner": 1,
+			"status": 2,
+			"date": 1689673015,
+			"context": 2,
+			"type": 2,
+			"farmer1": -1,
+			"farmer2": -1,
+			"team1": 81,
+			"team2": 1,
+			"composition1": 11012,
+			"composition2": 19603,
+			"result": "defeat",
+			"team1_name": "Ten more battles",
+			"team2_name": "DoT"
+		}
+	],
+	"draws": 1238,
+	"defeats": 10127,
+	"emblem_changed": 1580430588,
+	"description": "Salut tout le monde !",
+	"remaining_xp": 0,
+	"ratio": "0.71",
+	"member_count": 8,
+	"members": [
+		{
+			"id": 1,
+			"name": "Pilow",
+			"avatar_changed": 1657791181,
+			"grade": "owner",
+			"connected": true,
+			"talent": 4347,
+			"logs_level": 2
+		},
+		{
+			"id": 53,
+			"name": "Claw",
+			"avatar_changed": 1399762591,
+			"grade": "captain",
+			"connected": false,
+			"talent": 631,
+			"logs_level": 0
+		},
+		{
+			"id": 83,
+			"name": "meandme",
+			"avatar_changed": 1401103207,
+			"grade": "captain",
+			"connected": false,
+			"talent": 576,
+			"logs_level": 0
+		},
+		{
+			"id": 85,
+			"name": "Cdsfr",
+			"avatar_changed": 1401284469,
+			"grade": "captain",
+			"connected": false,
+			"talent": 352,
+			"logs_level": 0
+		},
+		{
+			"id": 86,
+			"name": "TeoTop",
+			"avatar_changed": 1403808260,
+			"grade": "captain",
+			"connected": false,
+			"talent": 675,
+			"logs_level": 0
+		},
+		{
+			"id": 66,
+			"name": "tubasa",
+			"avatar_changed": 1402056913,
+			"grade": "captain",
+			"connected": false,
+			"talent": 1390,
+			"logs_level": 0
+		},
+		{
+			"id": 48,
+			"name": "Skouarniek",
+			"avatar_changed": 1611178232,
+			"grade": "captain",
+			"connected": false,
+			"talent": 3819,
+			"logs_level": 0
+		},
+		{
+			"id": 64792,
+			"name": "Tilio",
+			"avatar_changed": 1553498876,
+			"grade": "captain",
+			"connected": false,
+			"talent": 513,
+			"logs_level": 0
+		}
+	],
+	"leek_count": 30,
+	"opened": false,
+	"tournaments": [
+		{
+			"id": 83007,
+			"date": 1689619502,
+			"rounds": {
+				"19604": [-1],
+				"25506": [-1]
+			}
+		},
+		{
+			"id": 83005,
+			"date": 1689619502,
+			"rounds": {
+				"19603": [-1]
+			}
+		},
+		{
+			"id": 82986,
+			"date": 1689533101,
+			"rounds": {
+				"19603": [-1]
+			}
+		},
+		{
+			"id": 82988,
+			"date": 1689533101,
+			"rounds": {
+				"19604": [-1],
+				"25506": [-1]
+			}
+		},
+		{
+			"id": 82967,
+			"date": 1689446701,
+			"rounds": {
+				"19603": [1, 1, 1, 0]
+			}
+		},
+		{
+			"id": 82969,
+			"date": 1689446701,
+			"rounds": {
+				"19604": [1, -1],
+				"25506": [0]
+			}
+		}
+	],
+	"emblem_author": 1,
+	"turret_ai": {
+		"id": 307619,
+		"name": "Tourelle.leek",
+		"valid": true,
+		"total_lines": 31
+	},
+	"ranking": 6,
+	"rankings": {
+		"leeks": [
+			{
+				"id": 95,
+				"name": "Skouartwo",
+				"talent": 2438
+			},
+			{
+				"id": 48,
+				"name": "Skouarniek",
+				"talent": 2425
+			},
+			{
+				"id": 90,
+				"name": "SkullGrog",
+				"talent": 2399
+			},
+			{
+				"id": 132,
+				"name": "Wolip",
+				"talent": 2233
+			},
+			{
+				"id": 1,
+				"name": "Gorglucks",
+				"talent": 2223
+			},
+			{
+				"id": 459,
+				"name": "Skouarthree",
+				"talent": 1821
+			},
+			{
+				"id": 69854,
+				"name": "Tilionator",
+				"talent": 1437
+			},
+			{
+				"id": 192,
+				"name": "AlcooLeek",
+				"talent": 1084
+			},
+			{
+				"id": 53,
+				"name": "CLAW",
+				"talent": 621
+			},
+			{
+				"id": 319,
+				"name": "Heisenberg",
+				"talent": 567
+			}
+		],
+		"farmers": [
+			{
+				"id": 1,
+				"name": "Pilow",
+				"talent": 4347,
+				"country": "fr"
+			},
+			{
+				"id": 48,
+				"name": "Skouarniek",
+				"talent": 3819,
+				"country": "mt"
+			},
+			{
+				"id": 86,
+				"name": "TeoTop",
+				"talent": 675,
+				"country": null
+			},
+			{
+				"id": 53,
+				"name": "Claw",
+				"talent": 631,
+				"country": "fr"
+			},
+			{
+				"id": 83,
+				"name": "meandme",
+				"talent": 576,
+				"country": "fr"
+			},
+			{
+				"id": 64792,
+				"name": "Tilio",
+				"talent": 513,
+				"country": null
+			},
+			{
+				"id": 85,
+				"name": "Cdsfr",
+				"talent": 352,
+				"country": null
+			}
+		],
+		"trophies": [
+			{
+				"id": 1,
+				"name": "Pilow",
+				"points": 12240
+			},
+			{
+				"id": 48,
+				"name": "Skouarniek",
+				"points": 5687
+			},
+			{
+				"id": 66,
+				"name": "tubasa",
+				"points": 2582
+			},
+			{
+				"id": 53,
+				"name": "Claw",
+				"points": 2545
+			},
+			{
+				"id": 64792,
+				"name": "Tilio",
+				"points": 2130
+			},
+			{
+				"id": 86,
+				"name": "TeoTop",
+				"points": 1907
+			},
+			{
+				"id": 83,
+				"name": "meandme",
+				"points": 1600
+			},
+			{
+				"id": 85,
+				"name": "Cdsfr",
+				"points": 1442
+			}
+		]
+	},
+	"leeks": [
+		{
+			"id": 53,
+			"name": "CLAW",
+			"level": 301,
+			"hat": 5,
+			"skin": 4,
+			"talent": 621,
+			"weapon": null,
+			"farmer": 53,
+			"metal": true,
+			"face": 2
+		},
+		{
+			"id": 96,
+			"name": "Walck",
+			"level": 292,
+			"hat": 1,
+			"skin": 3,
+			"talent": 374,
+			"weapon": null,
+			"farmer": 53,
+			"metal": true,
+			"face": 2
+		},
+		{
+			"id": 189,
+			"name": "Franklin",
+			"level": 275,
+			"hat": 3,
+			"skin": 1,
+			"talent": 416,
+			"weapon": null,
+			"farmer": 53,
+			"metal": true,
+			"face": 2
+		},
+		{
+			"id": 319,
+			"name": "Heisenberg",
+			"level": 249,
+			"hat": 4,
+			"skin": 2,
+			"talent": 567,
+			"weapon": null,
+			"farmer": 53,
+			"metal": true,
+			"face": 2
+		},
+		{
+			"id": 456,
+			"name": "TigeFolle",
+			"level": 201,
+			"hat": null,
+			"skin": 7,
+			"talent": 312,
+			"weapon": null,
+			"farmer": 85,
+			"metal": true,
+			"face": 2
+		},
+		{
+			"id": 86,
+			"name": "Cds",
+			"level": 294,
+			"hat": null,
+			"skin": 7,
+			"talent": 266,
+			"weapon": null,
+			"farmer": 85,
+			"metal": true,
+			"face": 2
+		},
+		{
+			"id": 226,
+			"name": "Tigemou",
+			"level": 232,
+			"hat": null,
+			"skin": 7,
+			"talent": 449,
+			"weapon": null,
+			"farmer": 85,
+			"metal": true,
+			"face": 2
+		},
+		{
+			"id": 103,
+			"name": "TigeDure",
+			"level": 269,
+			"hat": null,
+			"skin": 7,
+			"talent": 325,
+			"weapon": null,
+			"farmer": 85,
+			"metal": true,
+			"face": 2
+		},
+		{
+			"id": 67,
+			"name": "Leguminator",
+			"level": 300,
+			"hat": 13,
+			"skin": 4,
+			"talent": 1096,
+			"weapon": null,
+			"farmer": 66,
+			"metal": true,
+			"face": 2
+		},
+		{
+			"id": 353,
+			"name": "desherbeur",
+			"level": 272,
+			"hat": null,
+			"skin": 11,
+			"talent": 749,
+			"weapon": null,
+			"farmer": 66,
+			"metal": true,
+			"face": 2
+		},
+		{
+			"id": 92,
+			"name": "poirotage",
+			"level": 300,
+			"hat": 6,
+			"skin": 2,
+			"talent": 1295,
+			"weapon": null,
+			"farmer": 66,
+			"metal": true,
+			"face": 2
+		},
+		{
+			"id": 197,
+			"name": "eplucheur",
+			"level": 280,
+			"hat": null,
+			"skin": 1,
+			"talent": 747,
+			"weapon": null,
+			"farmer": 66,
+			"metal": true,
+			"face": 2
+		},
+		{
+			"id": 452,
+			"name": "MeMe3",
+			"level": 221,
+			"hat": null,
+			"skin": 5,
+			"talent": 349,
+			"weapon": null,
+			"farmer": 83,
+			"metal": true,
+			"face": 2
+		},
+		{
+			"id": 581,
+			"name": "MeMe4",
+			"level": 169,
+			"hat": null,
+			"skin": 5,
+			"talent": 250,
+			"weapon": null,
+			"farmer": 83,
+			"metal": true,
+			"face": 2
+		},
+		{
+			"id": 101,
+			"name": "MeMe2",
+			"level": 296,
+			"hat": null,
+			"skin": 5,
+			"talent": 549,
+			"weapon": null,
+			"farmer": 83,
+			"metal": true,
+			"face": 2
+		},
+		{
+			"id": 84,
+			"name": "MeMe",
+			"level": 300,
+			"hat": null,
+			"skin": 5,
+			"talent": 449,
+			"weapon": null,
+			"farmer": 83,
+			"metal": true,
+			"face": 2
+		},
+		{
+			"id": 48,
+			"name": "Skouarniek",
+			"level": 301,
+			"hat": 5,
+			"skin": 4,
+			"talent": 2425,
+			"weapon": 225,
+			"farmer": 48,
+			"metal": true,
+			"face": 2
+		},
+		{
+			"id": 459,
+			"name": "Skouarthree",
+			"level": 301,
+			"hat": 26,
+			"skin": 12,
+			"talent": 1821,
+			"weapon": null,
+			"farmer": 48,
+			"metal": true,
+			"face": 2
+		},
+		{
+			"id": 95,
+			"name": "Skouartwo",
+			"level": 301,
+			"hat": 5,
+			"skin": 4,
+			"talent": 2438,
+			"weapon": 117,
+			"farmer": 48,
+			"metal": true,
+			"face": 2
+		},
+		{
+			"id": 11367,
+			"name": "Skouarfour",
+			"level": 301,
+			"hat": 5,
+			"skin": 2,
+			"talent": 369,
+			"weapon": null,
+			"farmer": 48,
+			"metal": true,
+			"face": 2
+		},
+		{
+			"id": 80887,
+			"name": "didierlepoiro",
+			"level": 80,
+			"hat": 6,
+			"skin": 11,
+			"talent": 261,
+			"weapon": 41,
+			"farmer": 64792,
+			"metal": false,
+			"face": 2
+		},
+		{
+			"id": 69854,
+			"name": "Tilionator",
+			"level": 238,
+			"hat": 20,
+			"skin": 11,
+			"talent": 1437,
+			"weapon": 117,
+			"farmer": 64792,
+			"metal": true,
+			"face": 0
+		},
+		{
+			"id": 87,
+			"name": "Tulasvu",
+			"level": 300,
+			"hat": null,
+			"skin": 1,
+			"talent": 2011,
+			"weapon": null,
+			"farmer": 86,
+			"metal": true,
+			"face": 2
+		},
+		{
+			"id": 112,
+			"name": "Leek@112",
+			"level": 300,
+			"hat": null,
+			"skin": 1,
+			"talent": 2043,
+			"weapon": null,
+			"farmer": 86,
+			"metal": true,
+			"face": 2
+		},
+		{
+			"id": 217,
+			"name": "TheLastOne",
+			"level": 280,
+			"hat": null,
+			"skin": 1,
+			"talent": 1754,
+			"weapon": null,
+			"farmer": 86,
+			"metal": true,
+			"face": 2
+		},
+		{
+			"id": 178,
+			"name": "Coquine",
+			"level": 249,
+			"hat": null,
+			"skin": 1,
+			"talent": 1682,
+			"weapon": null,
+			"farmer": 86,
+			"metal": true,
+			"face": 2
+		},
+		{
+			"id": 192,
+			"name": "AlcooLeek",
+			"level": 301,
+			"hat": 39,
+			"skin": 19,
+			"talent": 1084,
+			"weapon": 117,
+			"farmer": 1,
+			"metal": false,
+			"face": 2
+		},
+		{
+			"id": 90,
+			"name": "SkullGrog",
+			"level": 301,
+			"hat": 27,
+			"skin": 39,
+			"talent": 2399,
+			"weapon": 277,
+			"farmer": 1,
+			"metal": false,
+			"face": 2
+		},
+		{
+			"id": 132,
+			"name": "Wolip",
+			"level": 301,
+			"hat": 35,
+			"skin": 15,
+			"talent": 2233,
+			"weapon": 47,
+			"farmer": 1,
+			"metal": false,
+			"face": 2
+		},
+		{
+			"id": 1,
+			"name": "Gorglucks",
+			"level": 301,
+			"hat": 12,
+			"skin": 42,
+			"talent": 2223,
+			"weapon": 151,
+			"farmer": 1,
+			"metal": false,
+			"face": 2
+		}
+	],
+	"candidacy": false
+}
