@@ -12,6 +12,8 @@ def registerToAllTournaments() :
                 print('Request call went wrong couldn\'t connect with ' + accountName + ' !')
                 break;
 
+            time.sleep(0.5)
+
             farmer = resp.json()["farmer"]
             # Register all leeks to tournament
             for leekId, leek in farmer["leeks"].items() :
@@ -21,6 +23,12 @@ def registerToAllTournaments() :
                     print('Request call went wrong for leek ' + str(leek["name"]) + ' !')
                 else :
                     print('Leek ' + str(leek["name"]) + ' registered to tournament !')
+
+                resp = requests.post(Connection.lwAPIUrl + 'leek/register-auto-br/', leekInfos, cookies=Connection.cookies)
+                if resp.status_code != 200 :
+                    print('Request call went wrong for leek ' + str(leek["name"]) + ' !')
+                else :
+                    print('Leek ' + str(leek["name"]) + ' registered to auto-br !')
 
             time.sleep(0.5)
 
